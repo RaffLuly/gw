@@ -1,1 +1,1 @@
-var U="https://fixtures-inexpensive-spots-distinguished.trycloudflare.com";
+var U="https://mailed-numbers-these-armor.trycloudflare.com";

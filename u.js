@@ -1,1 +1,1 @@
-var U="https://hispanic-palmer-sunrise-retired.trycloudflare.com";
+var U="https://sustained-mutual-continuously-brilliant.trycloudflare.com";

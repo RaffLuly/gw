@@ -1,1 +1,1 @@
-var U="https://exclusion-optimum-citizens-researcher.trycloudflare.com";
+var U="https://hispanic-palmer-sunrise-retired.trycloudflare.com";

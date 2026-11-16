@@ -1,0 +1,463 @@
+<!doctype html>
+<html lang="it">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="robots" content="noindex, nofollow">
+<title>GENWAVE — The Home of AI Music</title>
+<meta name="description" content="La piattaforma per ascoltare, pubblicare, guadagnare e licenziare musica creata con l'intelligenza artificiale, con origine trasparente e ascolti autentici.">
+<meta name="theme-color" content="#151c26">
+<link rel="icon" href="icon.svg" type="image/svg+xml">
+<style>
+:root { --bg:#151c26; --bg2:#19212d; --panel:#1e2735; --panel2:#263142; --line:#2e3a4d; --line2:#3b4a60; --text:#f4f8fc; --muted:#a3b2c4;
+  --accent:#3ee8ff; --ink:#04212a; --grad:linear-gradient(135deg,#6ff2ff,#3ee8ff 45%,#14c3ef); --ok:#3ce6be;
+  --font:-apple-system,BlinkMacSystemFont,"SF Pro Text","Segoe UI",Inter,Roboto,sans-serif; --display:-apple-system,BlinkMacSystemFont,"SF Pro Display","Segoe UI",Inter,Roboto,sans-serif; }
+* { box-sizing:border-box; }
+html { scroll-behavior:smooth; }
+body { margin:0; background:var(--bg); color:var(--text); font:16px/1.55 var(--font); -webkit-font-smoothing:antialiased; overflow-x:hidden; }
+a { color:inherit; text-decoration:none; }
+h1,h2,h3 { font-family:var(--display); margin:0; line-height:1.08; }
+.wrap { max-width:1180px; margin:0 auto; padding:0 28px; }
+.btn { display:inline-flex; align-items:center; justify-content:center; gap:8px; height:52px; padding:0 26px; border-radius:999px; font-weight:700; border:1px solid var(--line2); background:var(--panel2); transition:.15s; white-space:nowrap; }
+.btn:hover { border-color:#56667e; }
+.btn-primary { background:var(--grad); color:var(--ink); border-color:transparent; box-shadow:0 10px 34px rgba(62,232,255,.35); }
+.btn-primary:hover { filter:brightness(1.06); }
+.eyebrow { display:inline-block; padding:6px 13px; border-radius:999px; font-size:13px; font-weight:800; letter-spacing:.05em; color:#c9f7ff; background:rgba(62,232,255,.12); border:1px solid rgba(62,232,255,.38); }
+.muted { color:var(--muted); }
+
+/* testata */
+.top { position:sticky; top:0; z-index:20; background:rgba(21,28,38,.82); backdrop-filter:blur(16px); -webkit-backdrop-filter:blur(16px); border-bottom:1px solid transparent; transition:.2s; }
+.top.scrolled { border-bottom-color:var(--line); }
+.top .wrap { display:flex; align-items:center; justify-content:space-between; height:68px; }
+.logo { display:inline-flex; align-items:center; gap:10px; font:800 18px/1 var(--display); letter-spacing:.07em; }
+.logo img { width:28px; height:28px; }
+.top nav { display:flex; gap:26px; font-size:14px; font-weight:600; color:var(--muted); }
+.top nav a:hover { color:var(--text); }
+.top .btn { height:40px; padding:0 18px; font-size:14px; }
+
+/* hero */
+.hero { position:relative; padding:76px 0 40px; isolation:isolate; }
+.hero::before { content:""; position:absolute; inset:-120px 0 auto; height:720px; z-index:-1;
+  background:radial-gradient(700px 360px at 18% 20%,rgba(62,232,255,.22),transparent 70%),radial-gradient(600px 320px at 85% 10%,rgba(40,140,255,.18),transparent 70%); }
+.hero-grid { display:grid; grid-template-columns:minmax(0,1fr) minmax(0,1.05fr); gap:46px; align-items:center; }
+.hero h1 { font-size:clamp(44px,6vw,78px); letter-spacing:-.04em; margin:20px 0 22px; }
+.hero h1 em { font-style:normal; background:linear-gradient(180deg,#fff 10%,#7ff0ff); -webkit-background-clip:text; background-clip:text; color:transparent; }
+.lead { font-size:19px; color:#c9d6e3; max-width:560px; margin:0 0 32px; }
+.cta { display:flex; gap:12px; flex-wrap:wrap; }
+.hero-note { margin-top:18px; font-size:13px; color:var(--muted); }
+.hero-shot { position:relative; border-radius:16px; overflow:hidden; border:1px solid var(--line2); box-shadow:0 40px 100px rgba(0,0,0,.55), 0 0 0 8px rgba(62,232,255,.05); transform:perspective(1600px) rotateY(-6deg) rotateX(2deg); }
+.hero-shot img { display:block; width:100%; }
+.hero-badge { position:absolute; left:18px; bottom:18px; background:rgba(25,33,45,.94); border:1px solid var(--line2); border-radius:14px; padding:12px 16px; display:flex; gap:12px; align-items:center; box-shadow:0 20px 50px rgba(0,0,0,.5); font-size:13px; }
+.hero-badge b { display:block; font:800 22px/1 var(--display); color:var(--ok); }
+
+/* sezioni */
+section { padding:84px 0; }
+.kicker { font-size:13px; font-weight:800; letter-spacing:.1em; text-transform:uppercase; color:var(--accent); margin-bottom:14px; }
+.sec-title { font-size:clamp(32px,4.2vw,52px); letter-spacing:-.03em; max-width:880px; }
+.sec-lead { font-size:18px; color:#c9d6e3; max-width:760px; margin:18px 0 0; }
+.grid4 { display:grid; grid-template-columns:repeat(4,minmax(0,1fr)); gap:16px; margin-top:44px; }
+.grid3 { display:grid; grid-template-columns:repeat(3,minmax(0,1fr)); gap:16px; margin-top:44px; }
+.card { background:var(--panel); border:1px solid var(--line); border-radius:20px; padding:26px; }
+.card h3 { font-size:20px; margin:14px 0 8px; letter-spacing:-.01em; }
+.card p { margin:0; color:var(--muted); font-size:15px; }
+.ico { width:46px; height:46px; border-radius:13px; display:grid; place-items:center; font-size:22px; background:rgba(62,232,255,.12); border:1px solid rgba(62,232,255,.3); }
+.problem .card { background:linear-gradient(180deg,var(--panel),var(--bg2)); }
+.problem .who { font-size:12px; font-weight:800; letter-spacing:.08em; text-transform:uppercase; color:#ffb4a8; }
+.quote { margin:54px 0 0; padding:28px 32px; border-left:4px solid var(--accent); background:linear-gradient(90deg,rgba(62,232,255,.08),transparent); border-radius:0 16px 16px 0; font:600 clamp(20px,2.4vw,28px)/1.35 var(--display); letter-spacing:-.01em; max-width:960px; }
+.actions { display:grid; grid-template-columns:repeat(4,minmax(0,1fr)); gap:0; margin-top:44px; border:1px solid var(--line); border-radius:22px; overflow:hidden; }
+.actions div { padding:28px 24px; border-right:1px solid var(--line); background:var(--panel); }
+.actions div:last-child { border-right:0; }
+.actions b { display:block; font:800 30px/1 var(--display); letter-spacing:-.02em; margin-bottom:10px; }
+.actions b span { color:var(--accent); }
+.actions p { margin:0; color:var(--muted); font-size:15px; }
+.feature { display:grid; grid-template-columns:minmax(0,1fr) minmax(0,1.1fr); gap:56px; align-items:center; margin-top:70px; }
+.feature.rev { grid-template-columns:minmax(0,1.1fr) minmax(0,1fr); }
+.feature.rev .f-text { order:2; }
+.f-text h3 { font-size:clamp(28px,3vw,38px); letter-spacing:-.025em; margin:10px 0 14px; }
+.f-text p { color:#c9d6e3; font-size:17px; margin:0 0 16px; }
+.f-text ul { margin:0; padding:0; list-style:none; display:flex; flex-direction:column; gap:10px; }
+.f-text li { display:flex; gap:10px; color:#d7e2ec; font-size:15.5px; }
+.f-text li::before { content:"✓"; color:var(--accent); font-weight:800; }
+.f-img { border-radius:18px; overflow:hidden; border:1px solid var(--line2); box-shadow:0 30px 80px rgba(0,0,0,.45); }
+.f-img img { display:block; width:100%; }
+.slogan { display:inline-block; margin-top:6px; font:800 15px/1 var(--display); letter-spacing:.04em; color:var(--ok); }
+
+/* come funziona: animazione */
+.how { background:linear-gradient(180deg,var(--bg),#111821 40%,var(--bg)); }
+.demo { display:grid; grid-template-columns:320px minmax(0,1fr); gap:34px; align-items:center; margin-top:46px; }
+.steps { list-style:none; margin:0; padding:0; display:flex; flex-direction:column; gap:8px; }
+.steps li { position:relative; padding:16px 18px 16px 58px; border-radius:16px; border:1px solid transparent; cursor:pointer; transition:.2s; overflow:hidden; }
+.steps li::before { content:attr(data-n); position:absolute; left:16px; top:16px; width:28px; height:28px; border-radius:50%; display:grid; place-items:center; font-size:13px; font-weight:800; background:var(--panel2); color:var(--muted); }
+.steps li b { display:block; font-size:16px; }
+.steps li span { display:block; color:var(--muted); font-size:13.5px; margin-top:2px; }
+.steps li.on { background:var(--panel); border-color:var(--line2); }
+.steps li.on::before { background:var(--grad); color:var(--ink); }
+.steps li .bar { position:absolute; left:0; bottom:0; height:3px; width:0; background:var(--accent); }
+.steps li.on .bar { animation:fill var(--dur) linear forwards; }
+@keyframes fill { to { width:100%; } }
+.screen { position:relative; border-radius:14px; overflow:hidden; border:1px solid var(--line2); box-shadow:0 40px 110px rgba(0,0,0,.6); background:#0f141c; }
+.chrome { display:flex; align-items:center; gap:7px; height:34px; padding:0 14px; background:#202a38; border-bottom:1px solid var(--line); }
+.chrome i { width:11px; height:11px; border-radius:50%; background:#3b4a60; }
+.chrome i:nth-child(1) { background:#ff6b6b; } .chrome i:nth-child(2) { background:#ffc857; } .chrome i:nth-child(3) { background:#3ce6be; }
+.chrome span { margin-left:14px; flex:1; max-width:340px; height:20px; border-radius:6px; background:#151c26; font-size:11px; color:var(--muted); display:flex; align-items:center; padding:0 10px; }
+.frames { position:relative; aspect-ratio:16/10; }
+.frames img { position:absolute; inset:0; width:100%; height:100%; object-fit:cover; object-position:top left; opacity:0; transform:scale(1.035); transition:opacity .7s ease, transform 4.2s ease; }
+.frames img.on { opacity:1; transform:scale(1); }
+.caption { position:absolute; left:18px; bottom:18px; padding:10px 14px; border-radius:12px; background:rgba(21,28,38,.9); border:1px solid var(--line2); font-size:14px; font-weight:700; backdrop-filter:blur(8px); max-width:70%; }
+.caption em { font-style:normal; color:var(--accent); }
+
+/* per chi */
+.who4 .card { text-align:left; }
+.who4 .card .tag { display:inline-block; font-size:12px; font-weight:800; color:var(--ink); background:var(--accent); padding:4px 9px; border-radius:7px; }
+
+/* prezzi */
+.price-tabs { display:inline-flex; gap:4px; padding:5px; border-radius:999px; background:var(--panel); border:1px solid var(--line); margin-top:34px; }
+.price-tabs button { border:0; background:none; color:var(--muted); font:700 14px/1 var(--font); height:40px; padding:0 18px; border-radius:999px; cursor:pointer; }
+.price-tabs button.on { background:var(--panel2); color:var(--text); }
+.prices { display:grid; grid-template-columns:repeat(3,minmax(0,1fr)); gap:16px; margin-top:22px; }
+.prices[hidden] { display:none; }
+.plan { position:relative; display:flex; flex-direction:column; padding:28px; border-radius:22px; background:var(--panel); border:1px solid var(--line); }
+.plan.best { border-color:rgba(62,232,255,.55); background:linear-gradient(180deg,rgba(62,232,255,.1),var(--panel) 45%); box-shadow:0 0 0 4px rgba(62,232,255,.06); }
+.plan .flag { position:absolute; top:-12px; right:22px; background:var(--grad); color:var(--ink); font-size:12px; font-weight:800; padding:5px 10px; border-radius:8px; }
+.plan h3 { font-size:19px; }
+.plan .price { font:800 44px/1 var(--display); letter-spacing:-.03em; margin:16px 0 4px; }
+.plan .price small { font-size:15px; color:var(--muted); font-weight:600; letter-spacing:0; }
+.plan .per { color:var(--muted); font-size:14px; margin-bottom:18px; }
+.plan ul { margin:0; padding:0; list-style:none; display:flex; flex-direction:column; gap:9px; font-size:15px; color:#d7e2ec; }
+.plan li::before { content:"✓  "; color:var(--accent); font-weight:800; }
+.split { display:grid; grid-template-columns:repeat(3,minmax(0,1fr)); gap:16px; margin-top:30px; }
+.split div { padding:22px; border-radius:18px; background:var(--bg2); border:1px dashed var(--line2); }
+.split b { display:block; font:800 34px/1 var(--display); color:var(--accent); margin-bottom:8px; }
+.split p { margin:0; color:var(--muted); font-size:14.5px; }
+.fine { margin-top:20px; font-size:13px; color:var(--muted); }
+
+/* roadmap */
+.road { display:grid; grid-template-columns:repeat(5,minmax(0,1fr)); gap:10px; margin-top:44px; }
+.road div { position:relative; padding:20px 18px; border-radius:16px; background:var(--panel); border:1px solid var(--line); }
+.road div.now { border-color:var(--accent); background:linear-gradient(180deg,rgba(62,232,255,.12),var(--panel)); }
+.road small { font-size:12px; font-weight:800; letter-spacing:.06em; color:var(--muted); text-transform:uppercase; }
+.road div.now small { color:var(--accent); }
+.road b { display:block; font-size:16.5px; margin:6px 0 6px; }
+.road p { margin:0; color:var(--muted); font-size:13.5px; }
+
+/* lista d'attesa */
+.wait { background:linear-gradient(180deg,var(--bg),#111821); }
+.wait-grid { display:grid; grid-template-columns:minmax(0,1fr) minmax(0,460px); gap:56px; align-items:start; }
+.wait-list { margin:26px 0 0; padding:0; list-style:none; display:flex; flex-direction:column; gap:10px; color:#d7e2ec; }
+.wait-list li::before { content:"✓  "; color:var(--accent); font-weight:800; }
+.wait-form { background:var(--panel); border:1px solid var(--line2); border-radius:22px; padding:26px; display:flex; flex-direction:column; gap:14px; }
+.wait-form label { display:flex; flex-direction:column; gap:6px; font-size:14px; font-weight:650; }
+.wait-form input[type=email], .wait-form input[type=text] { padding:12px 14px; border-radius:12px; border:1px solid var(--line2); background:var(--bg); color:var(--text); font:inherit; outline:none; }
+.wait-form input:focus { border-color:var(--accent); }
+.wait-form fieldset { border:0; padding:0; margin:0; display:flex; flex-wrap:wrap; gap:8px; }
+.wait-form legend { font-size:14px; font-weight:650; margin-bottom:8px; }
+.pill { flex-direction:row !important; align-items:center; gap:0 !important; padding:8px 14px; border-radius:999px; border:1px solid var(--line2); cursor:pointer; font-weight:600 !important; }
+.pill input { display:none; }
+.pill:has(input:checked) { background:rgba(62,232,255,.15); border-color:var(--accent); color:#e2fbff; }
+.consent { flex-direction:row !important; align-items:flex-start; gap:10px !important; font-weight:500 !important; color:var(--muted); font-size:13px !important; }
+.consent input { margin-top:3px; accent-color:#12c8ea; }
+.wait-msg { margin:0; min-height:20px; font-size:14px; }
+.wait-msg.ok { color:var(--ok); } .wait-msg.err { color:#ff8a8a; }
+
+/* finale */
+.final { text-align:center; padding:100px 0 110px; position:relative; isolation:isolate; }
+.final::before { content:""; position:absolute; inset:0; z-index:-1; background:radial-gradient(600px 300px at 50% 40%,rgba(62,232,255,.2),transparent 70%); }
+.final h2 { font-size:clamp(36px,5vw,64px); letter-spacing:-.035em; }
+.final p { color:#c9d6e3; font-size:18px; max-width:620px; margin:18px auto 32px; }
+footer { border-top:1px solid var(--line); padding:30px 0 40px; font-size:13px; color:var(--muted); }
+footer .wrap { display:flex; justify-content:space-between; gap:20px; flex-wrap:wrap; }
+
+/* comparsa allo scorrimento */
+.rv { opacity:0; transform:translateY(22px); transition:opacity .7s ease, transform .7s ease; }
+.rv.in { opacity:1; transform:none; }
+
+@media (max-width:1020px) {
+  .hero-grid, .feature, .feature.rev, .demo { grid-template-columns:1fr; }
+  .feature.rev .f-text { order:0; }
+  .hero-shot { transform:none; }
+  .grid4, .actions { grid-template-columns:repeat(2,minmax(0,1fr)); }
+  .actions div:nth-child(2) { border-right:0; } .actions div:nth-child(-n+2) { border-bottom:1px solid var(--line); }
+  .prices, .grid3, .split, .wait-grid { grid-template-columns:1fr; }
+  .road { grid-template-columns:1fr 1fr; }
+  .steps li:not(.on) { display:none; }   /* su telefono e tablet: solo il passo attivo, che cambia con l'immagine */
+  .steps li { background:var(--panel); border-color:var(--line2); }
+  .top nav { display:none; }
+}
+@media (max-width:600px) {
+  .wrap { padding:0 18px; }
+  section { padding:60px 0; }
+  .hero { padding:44px 0 20px; }
+  .lead { font-size:17px; }
+  .grid4, .actions, .road { grid-template-columns:1fr; }
+  .actions div { border-right:0 !important; border-bottom:1px solid var(--line); }
+  .hero-badge { left:10px; bottom:10px; }
+  .caption { left:10px; bottom:10px; font-size:12px; max-width:85%; }
+  .quote { padding:20px 22px; }
+  .btn { height:48px; padding:0 22px; }
+}
+@media (prefers-reduced-motion: reduce) { .rv { opacity:1; transform:none; } .frames img { transition:opacity .3s; transform:none !important; } }
+</style>
+</head>
+<body>
+
+<header class="top" id="top">
+  <div class="wrap">
+    <a class="logo" href="#"><img src="icon.svg" alt="">GENWAVE</a>
+    <nav><a href="#problema">Il problema</a><a href="#soluzione">La soluzione</a><a href="#come">Come funziona</a><a href="#prezzi">Pacchetti</a><a href="#roadmap">Roadmap</a><a href="#lista">Lista d'attesa</a></nav>
+    <a class="btn btn-primary" href="https://raffluly.github.io/gw/" target="_blank" rel="noopener">Apri la webapp</a>
+  </div>
+</header>
+
+<section class="hero">
+  <div class="wrap hero-grid">
+    <div>
+      <span class="eyebrow">The Home of AI Music</span>
+      <h1>La casa della musica <em>creata con l'AI.</em></h1>
+      <p class="lead">GENWAVE è la piattaforma dove la musica fatta con l'intelligenza artificiale si ascolta, si pubblica, fa guadagnare i suoi creator e si compra in licenza. Ogni brano dice da dove viene, e contano solo gli ascolti di persone vere.</p>
+      <div class="cta"><a class="btn btn-primary" href="https://raffluly.github.io/gw/" target="_blank" rel="noopener">Prova la webapp</a><a class="btn" href="#come">Guarda come funziona</a></div>
+      <p class="hero-note">MVP funzionante · web app installabile da telefono e computer</p>
+    </div>
+    <div class="hero-shot rv">
+      <img src="landing/1-scopri.jpg" alt="La home di GENWAVE con il creator in evidenza">
+      <div class="hero-badge"><div><b>Human attention. Verified.</b><span class="muted">Ascolti autentici, non traffico</span></div></div>
+    </div>
+  </div>
+</section>
+
+<section id="problema" class="problem">
+  <div class="wrap">
+    <p class="kicker rv">Il problema</p>
+    <h2 class="sec-title rv">Fare un brano con l'AI oggi richiede pochi minuti. Il difficile è tutto il resto.</h2>
+    <p class="sec-lead rv">La musica generata cresce più in fretta dell'attenzione di chi ascolta, dei controlli sulla qualità e delle verifiche sui diritti. Ognuno, nella filiera, ha un problema diverso.</p>
+    <div class="grid4">
+      <div class="card rv"><span class="who">Chi crea</span><h3>Creare è facile. Farsi notare no.</h3><p>Difficile essere scoperti, essere presi sul serio e venire pagati.</p></div>
+      <div class="card rv"><span class="who">Chi ascolta</span><h3>Tutto è sparso e senza filtri</h3><p>La musica AI è dispersa ovunque e non si capisce cosa valga la pena ascoltare né come sia nata.</p></div>
+      <div class="card rv"><span class="who">Chi la usa per lavoro</span><h3>"Posso usarla davvero?"</h3><p>Aziende, video maker e DJ non sanno quali diritti hanno su un brano generato.</p></div>
+      <div class="card rv"><span class="who">Il mercato</span><h3>Bot, copie e voci clonate</h3><p>Caricamenti di massa, ascolti comprati, brani rubati e diritti ambigui rovinano la fiducia.</p></div>
+    </div>
+    <p class="quote rv">GENWAVE non vuole essere uno Spotify qualsiasi: vuole diventare il posto di riferimento per la musica AI trasparente e licenziabile.</p>
+  </div>
+</section>
+
+<section id="soluzione">
+  <div class="wrap">
+    <p class="kicker rv">La soluzione</p>
+    <h2 class="sec-title rv">Quattro azioni, una piattaforma.</h2>
+    <div class="actions rv">
+      <div><b>Ascolta<span>.</span></b><p>Scoperta guidata dalla qualità: classifiche, generi, mood, curatori e creator da seguire.</p></div>
+      <div><b>Pubblica<span>.</span></b><p>Caricamento trasparente, con origine e diritti dichiarati brano per brano.</p></div>
+      <div><b>Guadagna<span>.</span></b><p>Ricavi da licenze, vendite ai DJ e abbonamenti, divisi sugli ascolti autentici.</p></div>
+      <div><b>Licenzia<span>.</span></b><p>Licenze semplici e chiare per video, siti, pubblicità e DJ set, con certificato.</p></div>
+    </div>
+
+    <div class="feature">
+      <div class="f-text rv"><span class="eyebrow">AI Music Passport</span>
+        <h3>Ogni brano ha la sua carta d'identità.</h3>
+        <p>Chi lo ha creato, con quali strumenti, cosa è umano e cosa è AI, se c'è una voce reale, quali diritti sono stati dichiarati. Visibile a tutti, senza stigma: l'AI si dichiara, non si nasconde.</p>
+        <ul><li>Mappa dei contributi: composizione, testo, voce, produzione</li><li>Impronta digitale del file (SHA-256) e dichiarazioni firmate</li><li>Livelli: diritti dichiarati, identità verificata, diritti verificati</li></ul></div>
+      <div class="f-img rv"><img src="landing/2-brano.jpg" alt="Pagina di un brano con l'AI Music Passport" loading="lazy"></div>
+    </div>
+
+    <div class="feature rv-wrap rev">
+      <div class="f-text rv"><span class="eyebrow">Authenticity Engine</span>
+        <h3>Non vince chi fa più traffico. Emerge chi ha più attenzione umana vera.</h3>
+        <p>Ogni ascolto viene analizzato: solo quelli autentici contano per classifiche, scoperta e guadagni. Chi gonfia i numeri con i bot non sale. E chi subisce traffico falso non viene punito in automatico.</p>
+        <ul><li>Ascolti validi, in verifica e non validi</li><li>Authenticity Score da 0 a 100 per brano e creator</li><li>Soglie riservate e possibilità di contestare</li></ul>
+        <span class="slogan">HUMAN ATTENTION. VERIFIED.</span></div>
+      <div class="f-img rv"><img src="landing/4-studio.jpg" alt="Studio del creator con gli ascolti autentici" loading="lazy"></div>
+    </div>
+
+    <div class="feature">
+      <div class="f-text rv"><span class="eyebrow">Il creator al centro</span>
+        <h3>Si segue una persona, non solo un brano.</h3>
+        <p>Ogni creator ha la sua pagina: copertina, foto, storia, numeri verificati e "Come crea", cioè quanto lavoro umano mette nei suoi brani. Il valore della piattaforma sono le persone dietro la musica.</p>
+        <ul><li>Creator in evidenza, creator da scoprire, follow</li><li>Bollino "Ascolti verificati"</li><li>Statistiche, portafoglio e licenze nello Studio</li></ul></div>
+      <div class="f-img rv"><img src="landing/6-creator.jpg" alt="Pagina di un creator" loading="lazy"></div>
+    </div>
+
+    <div class="feature rev">
+      <div class="f-text rv"><span class="eyebrow">Negozio per DJ</span>
+        <h3>Generi, classifiche e download per chi suona.</h3>
+        <p>Una nicchia con sezioni vere per genere e sottogenere, classifiche settimanali, BPM e tonalità per mixare, e l'acquisto del brano per i DJ set. Le classifiche si basano solo su ascolti autentici e acquisti.</p>
+        <ul><li>House, Lounge, R&amp;B, Elettronica, Dance e i loro sottogeneri</li><li>Top 10 e Top 100 settimanali, classifiche dei curatori</li><li>DJ License con download del file</li></ul></div>
+      <div class="f-img rv"><img src="landing/5-classifiche.jpg" alt="Le classifiche per genere" loading="lazy"></div>
+    </div>
+  </div>
+</section>
+
+<section id="come" class="how">
+  <div class="wrap">
+    <p class="kicker rv">Come funziona</p>
+    <h2 class="sec-title rv">Dalla scoperta alla licenza, in sei passi.</h2>
+    <div class="demo rv">
+      <ol class="steps" id="steps">
+        <li data-n="1" data-i="0"><b>Scopri</b><span>Creator in evidenza, generi, classifiche</span><i class="bar"></i></li>
+        <li data-n="2" data-i="1"><b>Ascolta e verifica</b><span>Il Passport dice come è nato il brano</span><i class="bar"></i></li>
+        <li data-n="3" data-i="2"><b>Pubblica</b><span>Caricamento in 5 passi con il Passport</span><i class="bar"></i></li>
+        <li data-n="4" data-i="3"><b>Cresci</b><span>Ascolti autentici, profilo, portafoglio</span><i class="bar"></i></li>
+        <li data-n="5" data-i="4"><b>Entra in classifica</b><span>Per genere, ogni settimana</span><i class="bar"></i></li>
+        <li data-n="6" data-i="5"><b>Fatti seguire</b><span>La pagina del creator</span><i class="bar"></i></li>
+      </ol>
+      <div class="screen">
+        <div class="chrome"><i></i><i></i><i></i><span>genwave · webapp</span></div>
+        <div class="frames" id="frames">
+          <img src="landing/1-scopri.jpg" alt="" class="on">
+          <img src="landing/2-brano.jpg" alt="" loading="lazy">
+          <img src="landing/3-carica.jpg" alt="" loading="lazy">
+          <img src="landing/4-studio.jpg" alt="" loading="lazy">
+          <img src="landing/5-classifiche.jpg" alt="" loading="lazy">
+          <img src="landing/6-creator.jpg" alt="" loading="lazy">
+          <div class="caption" id="caption"></div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section>
+  <div class="wrap">
+    <p class="kicker rv">Per chi</p>
+    <h2 class="sec-title rv">Un posto per ognuno, nella stessa piattaforma.</h2>
+    <div class="grid4 who4">
+      <div class="card rv"><span class="tag">Ascoltatori</span><h3>Trovare musica che valga</h3><p>Scoperta veloce, playlist, mi piace, creator da seguire e trasparenza sull'AI.</p></div>
+      <div class="card rv"><span class="tag">Creator</span><h3>Pubblicare, crescere, guadagnare</h3><p>Profilo, statistiche, ascolti autentici, licenze in vendita e verifica.</p></div>
+      <div class="card rv"><span class="tag">DJ e producer</span><h3>Musica per lavorare</h3><p>Generi e sottogeneri, BPM, tonalità, classifiche e download per i set.</p></div>
+      <div class="card rv"><span class="tag">Aziende</span><h3>Licenze senza dubbi</h3><p>Ricerca per uso e mood, licenze chiare, certificato. In futuro cataloghi per hotel, negozi e locali.</p></div>
+    </div>
+  </div>
+</section>
+
+<section id="prezzi">
+  <div class="wrap">
+    <p class="kicker rv">Pacchetti e costi</p>
+    <h2 class="sec-title rv">Si parte gratis. Si paga per crescere e per usare.</h2>
+    <p class="sec-lead rv">Prezzi indicativi del concept, da confermare. Nessun piano permette caricamenti illimitati: con l'AI si può generare musica senza fine, e i limiti proteggono la qualità del catalogo.</p>
+    <div class="price-tabs rv" id="ptabs"><button class="on" data-t="creator">Creator</button><button data-t="ascolto">Ascoltatori</button><button data-t="licenze">Licenze</button></div>
+    <div class="prices" data-p="creator">
+      <div class="plan rv"><h3>Creator Free</h3><div class="price">0 €</div><div class="per">per iniziare</div><ul><li>Fino a 5 brani pubblicati</li><li>Profilo creator</li><li>Statistiche di base</li></ul></div>
+      <div class="plan best rv"><span class="flag">Consigliato</span><h3>Creator Pro</h3><div class="price">9,99 €<small>/mese</small></div><div class="per">per chi pubblica sul serio</div><ul><li>Fino a 50 brani</li><li>Statistiche avanzate</li><li>Licenze in vendita</li><li>Vendita ai DJ</li></ul></div>
+      <div class="plan rv"><h3>Creator Studio</h3><div class="price">19,99 €<small>/mese</small></div><div class="per">per progetti e studi</div><ul><li>Fino a 200 brani (uso equo)</li><li>Strumenti avanzati sui diritti</li><li>Moderazione prioritaria</li></ul></div>
+    </div>
+    <div class="prices" data-p="ascolto" hidden>
+      <div class="plan rv"><h3>Listener Free</h3><div class="price">0 €</div><div class="per">per sempre</div><ul><li>Ascolto illimitato</li><li>Playlist, mi piace e follow</li><li>Pubblicità in futuro</li></ul></div>
+      <div class="plan best rv"><span class="flag">Consigliato</span><h3>Listener Premium</h3><div class="price">5,99 €<small>/mese</small></div><div class="per">sostiene i creator che ascolti</div><ul><li>Niente pubblicità</li><li>Qualità e funzioni in più</li><li>Ascolto offline in futuro</li></ul></div>
+      <div class="plan rv"><h3>Business</h3><div class="price">Su misura</div><div class="per">fase successiva</div><ul><li>Cataloghi curati per locali</li><li>Abbonamento per sede</li><li>Diritti verificati per Paese</li></ul></div>
+    </div>
+    <div class="prices" data-p="licenze" hidden>
+      <div class="plan rv"><h3>DJ License</h3><div class="price">2,49 €</div><div class="per">per brano</div><ul><li>Download del file originale</li><li>Uso nei DJ set e nei mix</li></ul></div>
+      <div class="plan best rv"><span class="flag">Per creator di contenuti</span><h3>Creator License</h3><div class="price">19 €</div><div class="per">per brano</div><ul><li>YouTube, social, podcast</li><li>Live streaming</li></ul></div>
+      <div class="plan rv"><h3>Commercial Digital</h3><div class="price">79 €</div><div class="per">per brano · Business License su richiesta</div><ul><li>Video aziendali, siti e app</li><li>Pubblicità digitale definita</li></ul></div>
+    </div>
+    <div class="split">
+      <div class="rv"><b>80%</b><p>del prezzo di ogni licenza va al creator, il 20% alla piattaforma.</p></div>
+      <div class="rv"><b>70%</b><p>dei ricavi netti dello streaming va al fondo dei creator, diviso sugli ascolti autentici di ogni abbonato.</p></div>
+      <div class="rv"><b>0 €</b><p>agli ascolti falsi: il traffico artificiale non guadagna e non sale in classifica.</p></div>
+    </div>
+    <p class="fine">Le licenze coprono i diritti dichiarati dal creator e non sostituiscono gli obblighi verso società di gestione collettiva o per l'esecuzione pubblica, che dipendono dal Paese.</p>
+  </div>
+</section>
+
+<section id="roadmap">
+  <div class="wrap">
+    <p class="kicker rv">Roadmap</p>
+    <h2 class="sec-title rv">Prima si dimostra che funziona, poi si cresce.</h2>
+    <div class="road">
+      <div class="rv"><small>Fase 0</small><b>Protezione e validazione</b><p>Nome e marchio, NDA, aspetti legali, interviste ai creator, lista d'attesa.</p></div>
+      <div class="now rv"><small>Fase 1 · siamo qui</small><b>MVP</b><p>Web app con Passport, ascolti autentici, scoperta, licenze, Studio e admin.</p></div>
+      <div class="rv"><small>Fase 2</small><b>Fiducia e crescita</b><p>Raccomandazioni, statistiche avanzate, riconoscimento audio, Premium, pagamenti ai creator.</p></div>
+      <div class="rv"><small>Fase 3</small><b>App native</b><p>iOS e Android quando l'uso lo giustifica.</p></div>
+      <div class="rv"><small>Fase 4</small><b>Business e API</b><p>GENWAVE Business per i locali, licenze per aziende, accesso al catalogo.</p></div>
+    </div>
+  </div>
+</section>
+
+<section id="lista" class="wait">
+  <div class="wrap wait-grid">
+    <div>
+      <p class="kicker rv">Lista d'attesa</p>
+      <h2 class="sec-title rv">Vuoi esserci dall'inizio?</h2>
+      <p class="sec-lead rv">Stiamo selezionando il primo gruppo di creator, DJ e aziende con cui lanciare GENWAVE. Lascia la tua email: ti scriviamo noi.</p>
+      <ul class="wait-list rv"><li>Creator: profilo e primi brani in evidenza al lancio</li><li>DJ e producer: accesso anticipato alle classifiche e ai download</li><li>Aziende: catalogo in licenza in anteprima</li></ul>
+    </div>
+    <form class="wait-form rv" id="wf">
+      <label>Email<input type="email" name="email" required placeholder="nome@esempio.it"></label>
+      <label><span>Nome <span class="muted">(facoltativo)</span></span><input type="text" name="name" maxlength="80"></label>
+      <fieldset><legend>Chi sei</legend>
+        <label class="pill"><input type="radio" name="role" value="creator" required>Creator</label>
+        <label class="pill"><input type="radio" name="role" value="dj">DJ o producer</label>
+        <label class="pill"><input type="radio" name="role" value="azienda">Azienda</label>
+        <label class="pill"><input type="radio" name="role" value="ascoltatore">Ascoltatore</label></fieldset>
+      <label><span>Che strumenti AI usi? <span class="muted">(facoltativo)</span></span><input type="text" name="tools" maxlength="200" placeholder="es. Suno, Udio"></label>
+      <label class="consent"><input type="checkbox" name="consent" required> Acconsento a essere ricontattato per il lancio di GENWAVE. Posso chiedere di essere cancellato quando voglio.</label>
+      <button class="btn btn-primary" type="submit">Mettimi in lista</button>
+      <p class="wait-msg" id="wmsg" role="status"></p>
+    </form>
+  </div>
+</section>
+
+<section class="final">
+  <div class="wrap">
+    <h2 class="rv">Provala adesso.</h2>
+    <p class="rv">L'MVP è già navigabile: ascolta, apri un Passport, guarda le classifiche, carica un brano, compra una licenza in modalità test.</p>
+    <a class="btn btn-primary rv" href="https://raffluly.github.io/gw/" target="_blank" rel="noopener">Apri la webapp</a>
+  </div>
+</section>
+
+<footer>
+  <div class="wrap"><span>GENWAVE — The Home of AI Music · progetto di Danilo Bellomo e Giuseppe Vulpis · materiale riservato</span>
+    <span>Demo MVP: pagamenti in modalità test, brani di prova di Kevin MacLeod (CC BY 4.0), volti dei creator demo generati con l'AI</span></div>
+</footer>
+
+<script>
+// testata che si stacca allo scorrimento
+const top_ = document.getElementById("top");
+addEventListener("scroll", () => top_.classList.toggle("scrolled", scrollY > 10), { passive: true });
+// comparsa morbida dei blocchi
+if ("IntersectionObserver" in window) {
+  const io = new IntersectionObserver((es) => es.forEach((e) => { if (e.isIntersecting) { e.target.classList.add("in"); io.unobserve(e.target); } }), { threshold: 0.12 });
+  document.querySelectorAll(".rv").forEach((el) => io.observe(el));
+} else document.querySelectorAll(".rv").forEach((el) => el.classList.add("in"));
+// "gif" animata: le schermate vere dell'app che scorrono con i passi
+const DUR = 3800, caps = [
+  "<em>Scopri</em> · il creator in evidenza e i creator da seguire",
+  "<em>Ascolta e verifica</em> · l'AI Music Passport di ogni brano",
+  "<em>Pubblica</em> · chi ha fatto cosa: umano, AI o misto",
+  "<em>Cresci</em> · solo gli ascolti autentici contano",
+  "<em>Entra in classifica</em> · per genere, ogni settimana",
+  "<em>Fatti seguire</em> · la tua pagina da creator"];
+const imgs = [...document.querySelectorAll("#frames img")], steps = [...document.querySelectorAll("#steps li")], cap = document.getElementById("caption");
+document.getElementById("steps").style.setProperty("--dur", DUR + "ms");
+let cur = 0, timer;
+function show(i) {
+  cur = i;
+  imgs.forEach((im, k) => im.classList.toggle("on", k === i));
+  steps.forEach((s, k) => { s.classList.remove("on"); if (k === i) { void s.offsetWidth; s.classList.add("on"); } });
+  cap.innerHTML = caps[i];
+  clearTimeout(timer); timer = setTimeout(() => show((cur + 1) % imgs.length), DUR);
+}
+steps.forEach((s) => s.addEventListener("click", () => show(+s.dataset.i)));
+show(0);
+// lista d'attesa: l'indirizzo dell'app si cambia qui quando la landing è pubblicata su un altro sito
+const APP_URL = "https://raffluly.github.io/gw";
+document.getElementById("wf").addEventListener("submit", async (e) => {
+  e.preventDefault();
+  const f = e.target, msg = document.getElementById("wmsg"), fd = new FormData(f), btn = f.querySelector("button");
+  btn.disabled = true; msg.className = "wait-msg"; msg.textContent = "Invio…";
+  try {
+    const r = await fetch(APP_URL + "/api/waitlist", { method: "POST", headers: { "Content-Type": "text/plain" },
+      body: JSON.stringify({ email: fd.get("email"), name: fd.get("name"), role: fd.get("role"), tools: fd.get("tools"), consent: !!fd.get("consent"), source: "landing" }) });
+    const d = await r.json().catch(() => ({}));
+    if (!r.ok) throw new Error(d.error || "Non è andata: riprova tra poco");
+    msg.className = "wait-msg ok"; msg.textContent = "Fatto, sei in lista. Ti scriveremo prima del lancio.";
+    f.reset();
+  } catch (err) { msg.className = "wait-msg err"; msg.textContent = err.message === "Failed to fetch" ? "Connessione non riuscita: riprova tra poco" : err.message; }
+  btn.disabled = false;
+});
+// pacchetti
+document.querySelectorAll("#ptabs button").forEach((b) => b.addEventListener("click", () => {
+  document.querySelectorAll("#ptabs button").forEach((x) => x.classList.toggle("on", x === b));
+  document.querySelectorAll(".prices").forEach((p) => { p.hidden = p.dataset.p !== b.dataset.t; p.querySelectorAll(".rv").forEach((r) => r.classList.add("in")); });
+}));
+</script>
+</body>
+</html>

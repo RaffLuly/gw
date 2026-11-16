@@ -1,1 +1,1 @@
-var U="https://mother-terminals-instant-strip.trycloudflare.com";
+var U="https://screenshot-translations-towns-context.trycloudflare.com";

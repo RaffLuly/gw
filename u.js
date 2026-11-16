@@ -1,1 +1,1 @@
-var U="https://breakfast-secretariat-buys-katie.trycloudflare.com";
+var U="https://along-scholars-observed-discount.trycloudflare.com";

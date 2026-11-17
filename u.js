@@ -1,1 +1,1 @@
-var U="https://nashville-scenarios-kruger-south.trycloudflare.com";
+var U="https://simulations-vacuum-intranet-books.trycloudflare.com";

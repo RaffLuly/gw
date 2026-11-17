@@ -1,1 +1,1 @@
-var U="https://harrison-ripe-treasures-ascii.trycloudflare.com";
+var U="https://feed-ips-intellectual-agree.trycloudflare.com";

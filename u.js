@@ -1,1 +1,1 @@
-var U="https://realtor-refuse-restaurant-rolled.trycloudflare.com";
+var U="https://nashville-scenarios-kruger-south.trycloudflare.com";

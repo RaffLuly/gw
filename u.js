@@ -1,1 +1,1 @@
-var U="https://distributors-theaters-stood-compensation.trycloudflare.com";
+var U="https://aurora-hearing-hardly-waterproof.trycloudflare.com";

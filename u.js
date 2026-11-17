@@ -1,1 +1,1 @@
-var U="https://api.trycloudflare.com";
+var U="https://harrison-ripe-treasures-ascii.trycloudflare.com";

@@ -1,1 +1,1 @@
-var U="https://feof-tide-annex-rendering.trycloudflare.com";
+var U="https://api.trycloudflare.com";

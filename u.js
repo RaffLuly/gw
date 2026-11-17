@@ -1,1 +1,1 @@
-var U="https://heads-fly-checks-bedroom.trycloudflare.com";
+var U="https://yale-need-effort-output.trycloudflare.com";

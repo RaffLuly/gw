@@ -1,1 +1,1 @@
-var U="https://colors-ten-click-hunter.trycloudflare.com";
+var U="https://lot-exp-converted-pearl.trycloudflare.com";

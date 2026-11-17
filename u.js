@@ -1,1 +1,1 @@
-var U="https://slides-upload-blocked-attended.trycloudflare.com";
+var U="https://api.trycloudflare.com";

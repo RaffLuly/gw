@@ -1,1 +1,1 @@
-var U="https://hired-snow-representations-stan.trycloudflare.com";
+var U="https://dim-attachment-incentives-investigator.trycloudflare.com";

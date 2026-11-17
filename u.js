@@ -1,1 +1,1 @@
-var U="https://measurement-ultimate-powers-lat.trycloudflare.com";
+var U="https://colors-ten-click-hunter.trycloudflare.com";

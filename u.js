@@ -1,1 +1,1 @@
-var U="https://owner-lyrics-loving-tiger.trycloudflare.com";
+var U="https://api.trycloudflare.com";

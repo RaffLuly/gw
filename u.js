@@ -1,1 +1,1 @@
-var U="https://longitude-bristol-drinks-placement.trycloudflare.com";
+var U="https://prospect-which-conditions-merry.trycloudflare.com";

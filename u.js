@@ -1,1 +1,1 @@
-var U="https://ftp-johnston-elizabeth-subsequent.trycloudflare.com";
+var U="https://module-solve-horses-interfaces.trycloudflare.com";

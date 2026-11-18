@@ -1,1 +1,1 @@
-var U="https://quizzes-diff-sees-pads.trycloudflare.com";
+var U="https://rather-flood-genetics-horizon.trycloudflare.com";

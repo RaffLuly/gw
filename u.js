@@ -1,1 +1,1 @@
-var U="https://love-folk-root-retired.trycloudflare.com";
+var U="https://encyclopedia-reforms-updates-trance.trycloudflare.com";

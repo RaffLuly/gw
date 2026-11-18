@@ -1,1 +1,1 @@
-var U="https://medline-seasonal-frozen-falling.trycloudflare.com";
+var U="https://shelf-integrity-genre-per.trycloudflare.com";

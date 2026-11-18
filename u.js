@@ -1,1 +1,1 @@
-var U="https://api.trycloudflare.com";
+var U="https://biodiversity-forums-velocity-quizzes.trycloudflare.com";

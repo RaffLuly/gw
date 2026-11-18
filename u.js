@@ -1,1 +1,1 @@
-var U="https://ict-behaviour-conversations-bond.trycloudflare.com";
+var U="https://api.trycloudflare.com";

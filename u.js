@@ -1,1 +1,1 @@
-var U="https://optimal-understood-assets-anyone.trycloudflare.com";
+var U="https://love-folk-root-retired.trycloudflare.com";

@@ -1,1 +1,1 @@
-var U="https://astronomy-screen-excerpt-guarantees.trycloudflare.com";
+var U="https://quizzes-diff-sees-pads.trycloudflare.com";

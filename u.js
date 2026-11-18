@@ -1,1 +1,1 @@
-var U="https://biodiversity-forums-velocity-quizzes.trycloudflare.com";
+var U="https://exactly-considerable-triple-astrology.trycloudflare.com";

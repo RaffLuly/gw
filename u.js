@@ -1,1 +1,1 @@
-var U="https://invitations-training-consumption-letters.trycloudflare.com";
+var U="https://api.trycloudflare.com";

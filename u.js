@@ -1,1 +1,1 @@
-var U="https://bomb-bubble-printing-immediately.trycloudflare.com";
+var U="https://newbie-winning-directed-southeast.trycloudflare.com";

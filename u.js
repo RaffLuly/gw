@@ -1,1 +1,1 @@
-var U="https://api.trycloudflare.com";
+var U="https://cases-section-reviewer-display.trycloudflare.com";

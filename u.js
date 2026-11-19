@@ -1,1 +1,1 @@
-var U="https://penguin-release-tim-off.trycloudflare.com";
+var U="https://excluded-specials-which-pocket.trycloudflare.com";

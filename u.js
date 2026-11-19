@@ -1,1 +1,1 @@
-var U="https://badly-combine-liver-ryan.trycloudflare.com";
+var U="https://acoustic-skills-chorus-valentine.trycloudflare.com";

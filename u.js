@@ -1,1 +1,1 @@
-var U="https://defines-agricultural-fioricet-disco.trycloudflare.com";
+var U="https://api.trycloudflare.com";

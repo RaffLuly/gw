@@ -1,1 +1,1 @@
-var U="https://bond-pressed-conjunction-creatures.trycloudflare.com";
+var U="https://merely-suite-notification-pub.trycloudflare.com";

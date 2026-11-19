@@ -1,1 +1,1 @@
-var U="https://monday-specific-soon-lifestyle.trycloudflare.com";
+var U="https://plc-news-specs-controlled.trycloudflare.com";

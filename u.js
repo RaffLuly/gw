@@ -1,1 +1,1 @@
-var U="https://plc-news-specs-controlled.trycloudflare.com";
+var U="https://flying-outdoors-voting-dimension.trycloudflare.com";

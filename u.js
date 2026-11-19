@@ -1,1 +1,1 @@
-var U="https://klein-world-finger-cup.trycloudflare.com";
+var U="https://monday-specific-soon-lifestyle.trycloudflare.com";

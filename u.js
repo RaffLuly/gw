@@ -1,1 +1,1 @@
-var U="https://critics-presents-brands-cadillac.trycloudflare.com";
+var U="https://growing-behind-sega-president.trycloudflare.com";

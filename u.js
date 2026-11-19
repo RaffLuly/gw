@@ -1,1 +1,1 @@
-var U="https://damages-turtle-reporting-lone.trycloudflare.com";
+var U="https://invitations-training-consumption-letters.trycloudflare.com";

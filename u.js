@@ -1,1 +1,1 @@
-var U="https://flying-outdoors-voting-dimension.trycloudflare.com";
+var U="https://coding-chris-native-col.trycloudflare.com";

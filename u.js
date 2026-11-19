@@ -1,1 +1,1 @@
-var U="https://influence-goes-act-start.trycloudflare.com";
+var U="https://scotia-url-betty-trend.trycloudflare.com";

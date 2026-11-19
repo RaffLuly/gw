@@ -1,1 +1,1 @@
-var U="https://coding-chris-native-col.trycloudflare.com";
+var U="https://api.trycloudflare.com";

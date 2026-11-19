@@ -1,1 +1,1 @@
-var U="https://match-justice-talks-respect.trycloudflare.com";
+var U="https://klein-world-finger-cup.trycloudflare.com";

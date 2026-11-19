@@ -1,1 +1,1 @@
-var U="https://although-attempts-lan-books.trycloudflare.com";
+var U="https://api.trycloudflare.com";

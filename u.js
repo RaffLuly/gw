@@ -1,1 +1,1 @@
-var U="https://ian-arrange-reel-midwest.trycloudflare.com";
+var U="https://bomb-bubble-printing-immediately.trycloudflare.com";

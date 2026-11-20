@@ -1,1 +1,1 @@
-var U="https://engage-requirements-brain-waiting.trycloudflare.com";
+var U="https://nut-merit-coupons-advertise.trycloudflare.com";

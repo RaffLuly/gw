@@ -1,1 +1,1 @@
-var U="https://class-miniature-natural-joan.trycloudflare.com";
+var U="https://train-repeat-offer-august.trycloudflare.com";

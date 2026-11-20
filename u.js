@@ -1,1 +1,1 @@
-var U="https://header-pill-excessive-sounds.trycloudflare.com";
+var U="https://class-miniature-natural-joan.trycloudflare.com";

@@ -1,1 +1,1 @@
-var U="https://anime-navigation-surfaces-sake.trycloudflare.com";
+var U="https://boulevard-seriously-massage-barn.trycloudflare.com";

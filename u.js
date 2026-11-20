@@ -1,1 +1,1 @@
-var U="https://drew-php-adsl-admissions.trycloudflare.com";
+var U="https://measured-establishment-injection-silent.trycloudflare.com";

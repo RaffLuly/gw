@@ -1,1 +1,1 @@
-var U="https://cheers-synopsis-quick-dynamic.trycloudflare.com";
+var U="https://obligations-starts-fifteen-slide.trycloudflare.com";

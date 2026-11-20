@@ -1,1 +1,1 @@
-var U="https://kinds-budgets-pumps-brilliant.trycloudflare.com";
+var U="https://pump-nissan-counter-consciousness.trycloudflare.com";

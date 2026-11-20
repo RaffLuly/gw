@@ -1,1 +1,1 @@
-var U="https://cents-resolved-washer-enjoy.trycloudflare.com";
+var U="https://drew-php-adsl-admissions.trycloudflare.com";

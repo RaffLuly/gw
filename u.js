@@ -1,1 +1,1 @@
-var U="https://unless-surf-deutschland-spy.trycloudflare.com";
+var U="https://kinds-budgets-pumps-brilliant.trycloudflare.com";

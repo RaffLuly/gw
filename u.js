@@ -1,1 +1,1 @@
-var U="https://api.trycloudflare.com";
+var U="https://loading-suse-declare-titled.trycloudflare.com";

@@ -1,1 +1,1 @@
-var U="https://dash-twelve-isolation-scanning.trycloudflare.com";
+var U="https://fast-speaker-arm-crafts.trycloudflare.com";

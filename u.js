@@ -1,1 +1,1 @@
-var U="https://pump-nissan-counter-consciousness.trycloudflare.com";
+var U="https://background-situations-delivers-prompt.trycloudflare.com";

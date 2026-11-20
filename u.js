@@ -1,1 +1,1 @@
-var U="https://loading-suse-declare-titled.trycloudflare.com";
+var U="https://header-pill-excessive-sounds.trycloudflare.com";

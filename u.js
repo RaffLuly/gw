@@ -1,1 +1,1 @@
-var U="https://fast-speaker-arm-crafts.trycloudflare.com";
+var U="https://cheers-synopsis-quick-dynamic.trycloudflare.com";

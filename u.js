@@ -1,1 +1,1 @@
-var U="https://demand-hoping-thunder-forty.trycloudflare.com";
+var U="https://anime-navigation-surfaces-sake.trycloudflare.com";

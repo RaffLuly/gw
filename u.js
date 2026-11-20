@@ -1,1 +1,1 @@
-var U="https://fin-ensures-aids-arthritis.trycloudflare.com";
+var U="https://api.trycloudflare.com";

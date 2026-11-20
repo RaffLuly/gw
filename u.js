@@ -1,1 +1,1 @@
-var U="https://background-most-associations-schedule.trycloudflare.com";
+var U="https://module-extraordinary-sao-oscar.trycloudflare.com";

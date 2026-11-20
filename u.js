@@ -1,1 +1,1 @@
-var U="https://nut-merit-coupons-advertise.trycloudflare.com";
+var U="https://unless-surf-deutschland-spy.trycloudflare.com";

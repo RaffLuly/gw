@@ -1,1 +1,1 @@
-var U="https://screw-stake-democracy-winter.trycloudflare.com";
+var U="https://talent-ccd-valve-raise.trycloudflare.com";

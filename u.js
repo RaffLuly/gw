@@ -1,1 +1,1 @@
-var U="https://talent-ccd-valve-raise.trycloudflare.com";
+var U="https://api.trycloudflare.com";

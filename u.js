@@ -1,1 +1,1 @@
-var U="https://discrimination-draw-billion-removing.trycloudflare.com";
+var U="https://whom-ton-fax-load.trycloudflare.com";

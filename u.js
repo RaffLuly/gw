@@ -1,1 +1,1 @@
-var U="https://highways-cycle-cultures-recognize.trycloudflare.com";
+var U="https://travelling-meanwhile-decision-invite.trycloudflare.com";

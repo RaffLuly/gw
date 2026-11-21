@@ -1,1 +1,1 @@
-var U="https://propose-shares-disciplinary-came.trycloudflare.com";
+var U="https://scanners-italiano-agency-robin.trycloudflare.com";

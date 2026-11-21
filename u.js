@@ -1,1 +1,1 @@
-var U="https://univ-discuss-filters-ran.trycloudflare.com";
+var U="https://example-implemented-inkjet-lotus.trycloudflare.com";

@@ -1,1 +1,1 @@
-var U="https://pine-evans-places-structures.trycloudflare.com";
+var U="https://ide-monitor-boot-generations.trycloudflare.com";

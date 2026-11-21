@@ -1,1 +1,1 @@
-var U="https://keen-rank-manually-yamaha.trycloudflare.com";
+var U="https://locate-oven-financing-contribution.trycloudflare.com";

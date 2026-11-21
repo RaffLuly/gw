@@ -1,1 +1,1 @@
-var U="https://conferences-yield-servers-contest.trycloudflare.com";
+var U="https://plus-heard-appliance-proceedings.trycloudflare.com";

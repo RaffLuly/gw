@@ -1,1 +1,1 @@
-var U="https://answers-vienna-bring-relatively.trycloudflare.com";
+var U="https://keen-rank-manually-yamaha.trycloudflare.com";

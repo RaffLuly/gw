@@ -1,1 +1,1 @@
-var U="https://example-implemented-inkjet-lotus.trycloudflare.com";
+var U="https://highways-cycle-cultures-recognize.trycloudflare.com";

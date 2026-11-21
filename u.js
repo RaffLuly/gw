@@ -1,1 +1,1 @@
-var U="https://explorer-perfectly-indexes-estimated.trycloudflare.com";
+var U="https://systematic-parcel-package-ingredients.trycloudflare.com";

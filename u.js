@@ -1,1 +1,1 @@
-var U="https://locate-oven-financing-contribution.trycloudflare.com";
+var U="https://pricing-convenience-peaceful-satin.trycloudflare.com";

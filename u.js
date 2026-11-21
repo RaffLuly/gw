@@ -1,1 +1,1 @@
-var U="https://omaha-privilege-concepts-museum.trycloudflare.com";
+var U="https://wanting-empirical-fda-seeds.trycloudflare.com";

@@ -1,1 +1,1 @@
-var U="https://acne-warming-covered-affairs.trycloudflare.com";
+var U="https://holes-beijing-triangle-set.trycloudflare.com";

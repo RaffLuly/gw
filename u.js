@@ -1,1 +1,1 @@
-var U="https://wanting-empirical-fda-seeds.trycloudflare.com";
+var U="https://gba-waters-try-lotus.trycloudflare.com";

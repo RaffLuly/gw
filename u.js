@@ -1,1 +1,1 @@
-var U="https://but-closes-listed-tied.trycloudflare.com";
+var U="https://novels-procedure-timing-rica.trycloudflare.com";

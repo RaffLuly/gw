@@ -1,1 +1,1 @@
-var U="https://produced-amazing-thoroughly-launch.trycloudflare.com";
+var U="https://peak-upgrade-virtue-brochures.trycloudflare.com";

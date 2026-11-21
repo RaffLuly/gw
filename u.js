@@ -1,1 +1,1 @@
-var U="https://holes-beijing-triangle-set.trycloudflare.com";
+var U="https://benjamin-sub-alphabetical-represent.trycloudflare.com";

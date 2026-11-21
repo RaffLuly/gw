@@ -1,1 +1,1 @@
-var U="https://cast-obtain-packets-has.trycloudflare.com";
+var U="https://screw-stake-democracy-winter.trycloudflare.com";

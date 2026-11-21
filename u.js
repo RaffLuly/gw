@@ -1,1 +1,1 @@
-var U="https://lawyers-targets-sys-police.trycloudflare.com";
+var U="https://ranging-webster-english-tough.trycloudflare.com";

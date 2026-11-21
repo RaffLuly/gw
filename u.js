@@ -1,1 +1,1 @@
-var U="https://gba-waters-try-lotus.trycloudflare.com";
+var U="https://oasis-hudson-rice-need.trycloudflare.com";

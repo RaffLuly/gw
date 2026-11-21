@@ -1,1 +1,1 @@
-var U="https://jeff-recruitment-july-gear.trycloudflare.com";
+var U="https://spin-candle-lonely-then.trycloudflare.com";

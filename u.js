@@ -1,1 +1,1 @@
-var U="https://url-ted-por-practitioner.trycloudflare.com";
+var U="https://omaha-privilege-concepts-museum.trycloudflare.com";

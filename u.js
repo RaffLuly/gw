@@ -1,1 +1,1 @@
-var U="https://western-charms-western-prints.trycloudflare.com";
+var U="https://api.trycloudflare.com";

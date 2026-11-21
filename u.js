@@ -1,1 +1,1 @@
-var U="https://systematic-parcel-package-ingredients.trycloudflare.com";
+var U="https://produced-amazing-thoroughly-launch.trycloudflare.com";

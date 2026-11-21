@@ -1,1 +1,1 @@
-var U="https://spin-candle-lonely-then.trycloudflare.com";
+var U="https://point-without-inc-widescreen.trycloudflare.com";

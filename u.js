@@ -1,1 +1,1 @@
-var U="https://pricing-convenience-peaceful-satin.trycloudflare.com";
+var U="https://acne-warming-covered-affairs.trycloudflare.com";

@@ -1,1 +1,1 @@
-var U="https://wires-expensive-soul-meant.trycloudflare.com";
+var U="https://percent-issued-relief-bond.trycloudflare.com";

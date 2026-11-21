@@ -1,1 +1,1 @@
-var U="https://oasis-hudson-rice-need.trycloudflare.com";
+var U="https://jeff-recruitment-july-gear.trycloudflare.com";

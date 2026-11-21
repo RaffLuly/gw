@@ -1,1 +1,1 @@
-var U="https://percent-issued-relief-bond.trycloudflare.com";
+var U="https://conferences-yield-servers-contest.trycloudflare.com";

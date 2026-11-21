@@ -1,1 +1,1 @@
-var U="https://york-winner-mega-smilies.trycloudflare.com";
+var U="https://api.trycloudflare.com";

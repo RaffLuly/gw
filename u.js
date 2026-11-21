@@ -1,1 +1,1 @@
-var U="https://plus-heard-appliance-proceedings.trycloudflare.com";
+var U="https://url-ted-por-practitioner.trycloudflare.com";

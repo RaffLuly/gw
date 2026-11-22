@@ -1,1 +1,1 @@
-var U="https://northern-cool-characteristic-lbs.trycloudflare.com";
+var U="https://treatments-author-snake-category.trycloudflare.com";

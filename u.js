@@ -1,1 +1,1 @@
-var U="https://nuke-treasure-assistant-earrings.trycloudflare.com";
+var U="https://boston-battle-fails-extra.trycloudflare.com";

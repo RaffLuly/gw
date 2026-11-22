@@ -1,1 +1,1 @@
-var U="https://laboratories-the-kidney-examples.trycloudflare.com";
+var U="https://thermal-journals-notebook-peninsula.trycloudflare.com";

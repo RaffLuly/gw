@@ -1,1 +1,1 @@
-var U="https://mother-sims-plaza-association.trycloudflare.com";
+var U="https://minister-save-plane-passport.trycloudflare.com";

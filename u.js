@@ -1,1 +1,1 @@
-var U="https://following-obligations-modems-discrimination.trycloudflare.com";
+var U="https://infant-distributor-railroad-deaf.trycloudflare.com";

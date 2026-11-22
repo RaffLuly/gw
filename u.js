@@ -1,1 +1,1 @@
-var U="https://meyer-pastor-loading-cameras.trycloudflare.com";
+var U="https://union-partially-ringtone-synthetic.trycloudflare.com";

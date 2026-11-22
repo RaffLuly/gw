@@ -1,1 +1,1 @@
-var U="https://regulatory-lowest-ppc-flashers.trycloudflare.com";
+var U="https://marsh-glad-www-bought.trycloudflare.com";

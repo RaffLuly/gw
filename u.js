@@ -1,1 +1,1 @@
-var U="https://input-worked-childrens-causes.trycloudflare.com";
+var U="https://transparency-bucks-scratch-criticism.trycloudflare.com";

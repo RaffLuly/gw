@@ -1,1 +1,1 @@
-var U="https://fairly-local-practitioners-rouge.trycloudflare.com";
+var U="https://api.trycloudflare.com";

@@ -1,1 +1,1 @@
-var U="https://lenses-secrets-chest-combines.trycloudflare.com";
+var U="https://regulatory-lowest-ppc-flashers.trycloudflare.com";

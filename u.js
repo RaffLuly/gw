@@ -1,1 +1,1 @@
-var U="https://approved-inclusion-happened-division.trycloudflare.com";
+var U="https://jpeg-ware-spy-principle.trycloudflare.com";

@@ -1,1 +1,1 @@
-var U="https://api.trycloudflare.com";
+var U="https://lenses-secrets-chest-combines.trycloudflare.com";

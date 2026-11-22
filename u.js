@@ -1,1 +1,1 @@
-var U="https://bulk-unfortunately-brooks-subaru.trycloudflare.com";
+var U="https://mention-lucy-governance-victor.trycloudflare.com";

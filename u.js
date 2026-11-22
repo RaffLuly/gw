@@ -1,1 +1,1 @@
-var U="https://scanners-italiano-agency-robin.trycloudflare.com";
+var U="https://nuke-treasure-assistant-earrings.trycloudflare.com";

@@ -1,1 +1,1 @@
-var U="https://union-partially-ringtone-synthetic.trycloudflare.com";
+var U="https://determined-that-wings-newsletters.trycloudflare.com";

@@ -1,1 +1,1 @@
-var U="https://minister-save-plane-passport.trycloudflare.com";
+var U="https://following-obligations-modems-discrimination.trycloudflare.com";

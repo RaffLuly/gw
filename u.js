@@ -1,1 +1,1 @@
-var U="https://jpeg-ware-spy-principle.trycloudflare.com";
+var U="https://api.trycloudflare.com";

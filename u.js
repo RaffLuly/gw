@@ -1,1 +1,1 @@
-var U="https://instantly-businesses-ghz-profits.trycloudflare.com";
+var U="https://referral-describing-links-victory.trycloudflare.com";

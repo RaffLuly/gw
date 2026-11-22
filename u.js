@@ -1,1 +1,1 @@
-var U="https://thermal-journals-notebook-peninsula.trycloudflare.com";
+var U="https://ecommerce-yes-olympus-sentences.trycloudflare.com";

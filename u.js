@@ -1,1 +1,1 @@
-var U="https://accommodations-removing-near-proc.trycloudflare.com";
+var U="https://provide-stevens-mitsubishi-instances.trycloudflare.com";

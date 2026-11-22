@@ -1,1 +1,1 @@
-var U="https://broadway-foot-merchant-precisely.trycloudflare.com";
+var U="https://northern-cool-characteristic-lbs.trycloudflare.com";

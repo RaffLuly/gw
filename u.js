@@ -1,1 +1,1 @@
-var U="https://determined-that-wings-newsletters.trycloudflare.com";
+var U="https://indexed-gerald-slides-affected.trycloudflare.com";

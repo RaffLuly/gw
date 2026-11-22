@@ -1,1 +1,1 @@
-var U="https://technological-bernard-air-thousands.trycloudflare.com";
+var U="https://will-preliminary-valid-changing.trycloudflare.com";

@@ -1,1 +1,1 @@
-var U="https://applicant-order-aspect-triangle.trycloudflare.com";
+var U="https://api.trycloudflare.com";

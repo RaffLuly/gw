@@ -1,1 +1,1 @@
-var U="https://bigger-affiliate-based-ago.trycloudflare.com";
+var U="https://loved-once-pencil-symantec.trycloudflare.com";

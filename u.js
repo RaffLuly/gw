@@ -1,1 +1,1 @@
-var U="https://postal-freely-lang-lady.trycloudflare.com";
+var U="https://api.trycloudflare.com";

@@ -1,1 +1,1 @@
-var U="https://regulation-indication-arnold-spouse.trycloudflare.com";
+var U="https://struct-republic-symposium-solo.trycloudflare.com";

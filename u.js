@@ -1,1 +1,1 @@
-var U="https://cleveland-eye-wires-closed.trycloudflare.com";
+var U="https://latex-niagara-whereas-spectrum.trycloudflare.com";

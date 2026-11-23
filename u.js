@@ -1,1 +1,1 @@
-var U="https://invention-appointment-closest-definitely.trycloudflare.com";
+var U="https://frames-chocolate-lighting-organizer.trycloudflare.com";

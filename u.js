@@ -1,1 +1,1 @@
-var U="https://struct-republic-symposium-solo.trycloudflare.com";
+var U="https://cat-dirt-found-wales.trycloudflare.com";

@@ -1,1 +1,1 @@
-var U="https://irc-bedroom-ciao-applied.trycloudflare.com";
+var U="https://cleveland-eye-wires-closed.trycloudflare.com";

@@ -1,1 +1,1 @@
-var U="https://nec-eve-safari-hook.trycloudflare.com";
+var U="https://cute-reel-union-clocks.trycloudflare.com";

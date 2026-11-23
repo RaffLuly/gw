@@ -1,1 +1,1 @@
-var U="https://flights-workshops-ccd-pavilion.trycloudflare.com";
+var U="https://queue-whale-chemicals-appeals.trycloudflare.com";

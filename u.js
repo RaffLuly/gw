@@ -1,1 +1,1 @@
-var U="https://screen-therapeutic-athens-dsl.trycloudflare.com";
+var U="https://lecture-cube-ton-rely.trycloudflare.com";

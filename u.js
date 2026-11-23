@@ -1,1 +1,1 @@
-var U="https://lecture-cube-ton-rely.trycloudflare.com";
+var U="https://moon-web-contrary-until.trycloudflare.com";

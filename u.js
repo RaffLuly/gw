@@ -1,1 +1,1 @@
-var U="https://bind-fixes-barriers-male.trycloudflare.com";
+var U="https://nec-eve-safari-hook.trycloudflare.com";

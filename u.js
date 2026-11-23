@@ -1,1 +1,1 @@
-var U="https://merry-vintage-bullet-reunion.trycloudflare.com";
+var U="https://api.trycloudflare.com";

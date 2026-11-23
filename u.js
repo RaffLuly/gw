@@ -1,1 +1,1 @@
-var U="https://filling-tone-usage-registrar.trycloudflare.com";
+var U="https://api.trycloudflare.com";

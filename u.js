@@ -1,1 +1,1 @@
-var U="https://sep-minnesota-vessel-brook.trycloudflare.com";
+var U="https://irc-bedroom-ciao-applied.trycloudflare.com";

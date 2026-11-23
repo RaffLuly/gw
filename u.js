@@ -1,1 +1,1 @@
-var U="https://planned-neighbor-hello-korea.trycloudflare.com";
+var U="https://invention-appointment-closest-definitely.trycloudflare.com";

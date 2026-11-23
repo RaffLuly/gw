@@ -1,1 +1,1 @@
-var U="https://latex-niagara-whereas-spectrum.trycloudflare.com";
+var U="https://bangkok-councils-porter-calling.trycloudflare.com";

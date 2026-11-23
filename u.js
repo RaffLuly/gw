@@ -1,1 +1,1 @@
-var U="https://doom-dsl-jeffrey-constructed.trycloudflare.com";
+var U="https://wallet-database-satisfied-office.trycloudflare.com";

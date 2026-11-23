@@ -1,1 +1,1 @@
-var U="https://webcams-bra-results-prefers.trycloudflare.com";
+var U="https://trans-subtle-patrol-room.trycloudflare.com";

@@ -1,1 +1,1 @@
-var U="https://trans-subtle-patrol-room.trycloudflare.com";
+var U="https://merry-vintage-bullet-reunion.trycloudflare.com";

@@ -1,1 +1,1 @@
-var U="https://wood-spelling-least-advocacy.trycloudflare.com";
+var U="https://bind-fixes-barriers-male.trycloudflare.com";

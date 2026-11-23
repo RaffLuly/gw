@@ -1,1 +1,1 @@
-var U="https://wallet-database-satisfied-office.trycloudflare.com";
+var U="https://planned-neighbor-hello-korea.trycloudflare.com";

@@ -1,1 +1,1 @@
-var U="https://moon-web-contrary-until.trycloudflare.com";
+var U="https://bigger-affiliate-based-ago.trycloudflare.com";

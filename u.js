@@ -1,1 +1,1 @@
-var U="https://loved-once-pencil-symantec.trycloudflare.com";
+var U="https://doom-dsl-jeffrey-constructed.trycloudflare.com";

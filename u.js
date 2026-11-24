@@ -1,1 +1,1 @@
-var U="https://cowboy-ahead-compressed-our.trycloudflare.com";
+var U="https://carter-compatibility-release-illustrated.trycloudflare.com";

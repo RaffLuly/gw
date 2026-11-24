@@ -1,1 +1,1 @@
-var U="https://mysimon-qualify-towards-advanced.trycloudflare.com";
+var U="https://chronicles-fence-prayer-tiny.trycloudflare.com";

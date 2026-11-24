@@ -1,1 +1,1 @@
-var U="https://attendance-declared-clark-frequent.trycloudflare.com";
+var U="https://refer-optics-boston-addressed.trycloudflare.com";

@@ -1,1 +1,1 @@
-var U="https://reported-nicole-adam-allergy.trycloudflare.com";
+var U="https://api.trycloudflare.com";

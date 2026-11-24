@@ -1,1 +1,1 @@
-var U="https://earning-can-avatar-mainland.trycloudflare.com";
+var U="https://supplies-remix-lafayette-just.trycloudflare.com";

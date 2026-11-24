@@ -1,1 +1,1 @@
-var U="https://taking-competing-pressure-reserve.trycloudflare.com";
+var U="https://encryption-establish-spots-problems.trycloudflare.com";

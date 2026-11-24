@@ -1,1 +1,1 @@
-var U="https://bug-malpractice-schedules-cultural.trycloudflare.com";
+var U="https://infrared-special-norfolk-geographic.trycloudflare.com";

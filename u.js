@@ -1,1 +1,1 @@
-var U="https://api.trycloudflare.com";
+var U="https://brokers-interim-cubic-yea.trycloudflare.com";

@@ -1,1 +1,1 @@
-var U="https://planner-tent-bull-screenshot.trycloudflare.com";
+var U="https://api.trycloudflare.com";

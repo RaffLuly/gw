@@ -1,1 +1,1 @@
-var U="https://bizrate-casino-monte-min.trycloudflare.com";
+var U="https://sydney-went-desktop-nail.trycloudflare.com";

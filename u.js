@@ -1,1 +1,1 @@
-var U="https://olympics-billing-express-universities.trycloudflare.com";
+var U="https://cowboy-ahead-compressed-our.trycloudflare.com";

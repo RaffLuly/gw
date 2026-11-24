@@ -1,1 +1,1 @@
-var U="https://carter-compatibility-release-illustrated.trycloudflare.com";
+var U="https://consisting-homeland-united-sector.trycloudflare.com";

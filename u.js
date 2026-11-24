@@ -1,1 +1,1 @@
-var U="https://approx-profit-vanilla-compared.trycloudflare.com";
+var U="https://medicines-rewards-prozac-warren.trycloudflare.com";

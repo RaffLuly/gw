@@ -1,1 +1,1 @@
-var U="https://api.trycloudflare.com";
+var U="https://ceremony-colleges-expansys-maintained.trycloudflare.com";

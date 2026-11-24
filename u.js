@@ -1,1 +1,1 @@
-var U="https://incidence-developers-formats-benefit.trycloudflare.com";
+var U="https://reported-nicole-adam-allergy.trycloudflare.com";

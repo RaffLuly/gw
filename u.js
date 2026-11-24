@@ -1,1 +1,1 @@
-var U="https://suit-liable-colours-princeton.trycloudflare.com";
+var U="https://furthermore-thing-nominations-brush.trycloudflare.com";

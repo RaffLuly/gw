@@ -1,1 +1,1 @@
-var U="https://ceremony-colleges-expansys-maintained.trycloudflare.com";
+var U="https://director-marina-protecting-inter.trycloudflare.com";

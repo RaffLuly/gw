@@ -1,1 +1,1 @@
-var U="https://believe-owner-manufactured-assessed.trycloudflare.com";
+var U="https://bizrate-casino-monte-min.trycloudflare.com";

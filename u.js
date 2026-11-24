@@ -1,1 +1,1 @@
-var U="https://assessed-considering-throat-fancy.trycloudflare.com";
+var U="https://high-sen-fuel-venture.trycloudflare.com";

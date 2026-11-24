@@ -1,1 +1,1 @@
-var U="https://consisting-homeland-united-sector.trycloudflare.com";
+var U="https://ferrari-type-camp-emissions.trycloudflare.com";

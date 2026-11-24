@@ -1,1 +1,1 @@
-var U="https://extra-gilbert-gate-dictionaries.trycloudflare.com";
+var U="https://presenting-gates-prague-lambda.trycloudflare.com";

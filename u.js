@@ -1,1 +1,1 @@
-var U="https://your-pubs-brighton-varied.trycloudflare.com";
+var U="https://taking-competing-pressure-reserve.trycloudflare.com";

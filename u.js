@@ -1,1 +1,1 @@
-var U="https://encryption-establish-spots-problems.trycloudflare.com";
+var U="https://weight-too-draw-crest.trycloudflare.com";

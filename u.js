@@ -1,1 +1,1 @@
-var U="https://scanners-medal-reactions-range.trycloudflare.com";
+var U="https://fighting-workplace-lean-star.trycloudflare.com";

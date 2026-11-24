@@ -1,1 +1,1 @@
-var U="https://laugh-cheese-introducing-surveys.trycloudflare.com";
+var U="https://strand-chester-galaxy-spiritual.trycloudflare.com";

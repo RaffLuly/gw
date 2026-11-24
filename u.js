@@ -1,1 +1,1 @@
-var U="https://api.trycloudflare.com";
+var U="https://olympics-billing-express-universities.trycloudflare.com";

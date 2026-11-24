@@ -1,1 +1,1 @@
-var U="https://wedding-picked-erik-epson.trycloudflare.com";
+var U="https://earning-can-avatar-mainland.trycloudflare.com";

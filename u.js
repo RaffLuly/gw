@@ -1,1 +1,1 @@
-var U="https://appendix-len-promotes-boring.trycloudflare.com";
+var U="https://classic-tigers-unable-virginia.trycloudflare.com";

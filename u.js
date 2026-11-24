@@ -1,1 +1,1 @@
-var U="https://pride-nikon-worldwide-revelation.trycloudflare.com";
+var U="https://attendance-declared-clark-frequent.trycloudflare.com";

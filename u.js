@@ -1,1 +1,1 @@
-var U="https://craft-union-restrict-ambien.trycloudflare.com";
+var U="https://without-resume-democratic-airports.trycloudflare.com";

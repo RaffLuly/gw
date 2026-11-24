@@ -1,1 +1,1 @@
-var U="https://api.trycloudflare.com";
+var U="https://mechanics-again-murray-savings.trycloudflare.com";

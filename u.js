@@ -1,1 +1,1 @@
-var U="https://sydney-went-desktop-nail.trycloudflare.com";
+var U="https://test-liberty-assignment-flashing.trycloudflare.com";

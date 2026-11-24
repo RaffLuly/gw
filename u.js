@@ -1,1 +1,1 @@
-var U="https://participation-sculpture-experiencing-gray.trycloudflare.com";
+var U="https://mysimon-qualify-towards-advanced.trycloudflare.com";

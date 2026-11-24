@@ -1,1 +1,1 @@
-var U="https://novels-mailed-asked-indicator.trycloudflare.com";
+var U="https://api.trycloudflare.com";

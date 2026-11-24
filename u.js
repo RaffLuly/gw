@@ -1,1 +1,1 @@
-var U="https://wheat-cas-absolutely-vertex.trycloudflare.com";
+var U="https://extra-gilbert-gate-dictionaries.trycloudflare.com";

@@ -1,1 +1,1 @@
-var U="https://handbags-finger-like-herbal.trycloudflare.com";
+var U="https://receptor-pete-below-lloyd.trycloudflare.com";

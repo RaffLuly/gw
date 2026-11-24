@@ -1,1 +1,1 @@
-var U="https://hired-nested-concerts-fundamentals.trycloudflare.com";
+var U="https://approx-profit-vanilla-compared.trycloudflare.com";

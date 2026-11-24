@@ -1,1 +1,1 @@
-var U="https://chronicles-fence-prayer-tiny.trycloudflare.com";
+var U="https://suffering-sitemap-key-sao.trycloudflare.com";

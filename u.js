@@ -1,1 +1,1 @@
-var U="https://dressed-clearly-immigrants-variations.trycloudflare.com";
+var U="https://api.trycloudflare.com";

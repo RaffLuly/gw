@@ -1,1 +1,1 @@
-var U="https://weight-too-draw-crest.trycloudflare.com";
+var U="https://api.trycloudflare.com";

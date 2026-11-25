@@ -1,1 +1,1 @@
-var U="https://fixed-decreased-riders-trembl.trycloudflare.com";
+var U="https://partly-joins-dark-nest.trycloudflare.com";

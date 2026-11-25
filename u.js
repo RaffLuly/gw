@@ -1,1 +1,1 @@
-var U="https://managing-urls-reads-pirates.trycloudflare.com";
+var U="https://meanwhile-dir-organizations-pit.trycloudflare.com";

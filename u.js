@@ -1,1 +1,1 @@
-var U="https://generators-induced-instant-rose.trycloudflare.com";
+var U="https://wagner-heart-montana-surely.trycloudflare.com";

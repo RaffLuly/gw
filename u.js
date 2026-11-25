@@ -1,1 +1,1 @@
-var U="https://convention-ion-stuffed-wyoming.trycloudflare.com";
+var U="https://bald-panel-poker-protocols.trycloudflare.com";

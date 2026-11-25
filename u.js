@@ -1,1 +1,1 @@
-var U="https://rendered-prescription-heavily-tool.trycloudflare.com";
+var U="https://generators-induced-instant-rose.trycloudflare.com";

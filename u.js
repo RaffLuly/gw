@@ -1,1 +1,1 @@
-var U="https://obj-cursor-promising-votes.trycloudflare.com";
+var U="https://gerald-observe-clerk-cup.trycloudflare.com";

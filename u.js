@@ -1,1 +1,1 @@
-var U="https://api.trycloudflare.com";
+var U="https://managing-urls-reads-pirates.trycloudflare.com";

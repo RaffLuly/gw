@@ -1,1 +1,1 @@
-var U="https://reviewing-vitamins-excitement-burner.trycloudflare.com";
+var U="https://explorer-curve-warrior-gardens.trycloudflare.com";

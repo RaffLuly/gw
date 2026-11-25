@@ -1,1 +1,1 @@
-var U="https://wines-jesse-frankfurt-cio.trycloudflare.com";
+var U="https://finished-cursor-rover-herbs.trycloudflare.com";

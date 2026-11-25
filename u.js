@@ -1,1 +1,1 @@
-var U="https://yard-tokyo-height-soccer.trycloudflare.com";
+var U="https://containing-pharmacies-employed-wild.trycloudflare.com";

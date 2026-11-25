@@ -1,1 +1,1 @@
-var U="https://api.trycloudflare.com";
+var U="https://separately-todd-biodiversity-translate.trycloudflare.com";

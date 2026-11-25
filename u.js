@@ -1,1 +1,1 @@
-var U="https://protocols-whereas-boutique-companion.trycloudflare.com";
+var U="https://handheld-incident-liabilities-classification.trycloudflare.com";

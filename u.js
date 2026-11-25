@@ -1,1 +1,1 @@
-var U="https://rankings-wheels-deeper-nelson.trycloudflare.com";
+var U="https://lot-take-senator-brunswick.trycloudflare.com";

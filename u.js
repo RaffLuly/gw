@@ -1,1 +1,1 @@
-var U="https://opponents-oasis-socks-acknowledged.trycloudflare.com";
+var U="https://consumers-fred-cave-bristol.trycloudflare.com";

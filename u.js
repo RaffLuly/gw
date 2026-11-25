@@ -1,1 +1,1 @@
-var U="https://knew-encryption-putting-bizrate.trycloudflare.com";
+var U="https://api.trycloudflare.com";

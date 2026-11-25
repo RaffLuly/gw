@@ -1,1 +1,1 @@
-var U="https://partly-joins-dark-nest.trycloudflare.com";
+var U="https://opponents-oasis-socks-acknowledged.trycloudflare.com";

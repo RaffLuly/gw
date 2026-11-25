@@ -1,1 +1,1 @@
-var U="https://bald-panel-poker-protocols.trycloudflare.com";
+var U="https://only-sprint-php-store.trycloudflare.com";

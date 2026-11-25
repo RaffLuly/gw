@@ -1,1 +1,1 @@
-var U="https://api.trycloudflare.com";
+var U="https://supervision-strips-raymond-wanna.trycloudflare.com";

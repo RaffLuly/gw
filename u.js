@@ -1,1 +1,1 @@
-var U="https://separately-todd-biodiversity-translate.trycloudflare.com";
+var U="https://rankings-wheels-deeper-nelson.trycloudflare.com";

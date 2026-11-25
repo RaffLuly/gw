@@ -1,1 +1,1 @@
-var U="https://high-sen-fuel-venture.trycloudflare.com";
+var U="https://measured-speeds-during-typical.trycloudflare.com";

@@ -1,1 +1,1 @@
-var U="https://finished-cursor-rover-herbs.trycloudflare.com";
+var U="https://aimed-opinions-miracle-programmes.trycloudflare.com";

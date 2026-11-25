@@ -1,1 +1,1 @@
-var U="https://this-cord-rugby-equality.trycloudflare.com";
+var U="https://api.trycloudflare.com";

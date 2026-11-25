@@ -1,1 +1,1 @@
-var U="https://cadillac-beaches-emperor-laid.trycloudflare.com";
+var U="https://summer-consist-teaching-commissions.trycloudflare.com";

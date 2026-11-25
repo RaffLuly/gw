@@ -1,1 +1,1 @@
-var U="https://containing-pharmacies-employed-wild.trycloudflare.com";
+var U="https://content-quotes-encouraged-solutions.trycloudflare.com";

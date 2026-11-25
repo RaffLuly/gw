@@ -1,1 +1,1 @@
-var U="https://promo-legend-lake-laws.trycloudflare.com";
+var U="https://api.trycloudflare.com";

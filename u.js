@@ -1,1 +1,1 @@
-var U="https://newsletters-tear-longer-parenting.trycloudflare.com";
+var U="https://this-cord-rugby-equality.trycloudflare.com";

@@ -1,1 +1,1 @@
-var U="https://summer-consist-teaching-commissions.trycloudflare.com";
+var U="https://promo-legend-lake-laws.trycloudflare.com";

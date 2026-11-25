@@ -1,1 +1,1 @@
-var U="https://only-sprint-php-store.trycloudflare.com";
+var U="https://api.trycloudflare.com";

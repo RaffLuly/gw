@@ -1,1 +1,1 @@
-var U="https://formerly-tom-von-packet.trycloudflare.com";
+var U="https://fixed-decreased-riders-trembl.trycloudflare.com";

@@ -1,1 +1,1 @@
-var U="https://gerald-observe-clerk-cup.trycloudflare.com";
+var U="https://rendered-prescription-heavily-tool.trycloudflare.com";

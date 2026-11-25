@@ -1,1 +1,1 @@
-var U="https://always-exemption-leu-lined.trycloudflare.com";
+var U="https://api.trycloudflare.com";

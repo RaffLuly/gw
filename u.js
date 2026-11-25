@@ -1,1 +1,1 @@
-var U="https://highly-installations-middle-develops.trycloudflare.com";
+var U="https://api.trycloudflare.com";

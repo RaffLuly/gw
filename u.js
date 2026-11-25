@@ -1,1 +1,1 @@
-var U="https://talks-lung-pole-frequently.trycloudflare.com";
+var U="https://gnu-unsubscribe-scanning-mem.trycloudflare.com";

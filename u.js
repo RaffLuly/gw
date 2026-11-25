@@ -1,1 +1,1 @@
-var U="https://happened-artificial-darwin-drilling.trycloudflare.com";
+var U="https://obj-cursor-promising-votes.trycloudflare.com";

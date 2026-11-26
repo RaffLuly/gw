@@ -1,1 +1,1 @@
-var U="https://session-trip-michigan-count.trycloudflare.com";
+var U="https://controversy-babies-algorithm-prep.trycloudflare.com";

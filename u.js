@@ -1,1 +1,1 @@
-var U="https://guaranteed-legends-oven-exchange.trycloudflare.com";
+var U="https://achieved-skirts-concern-congressional.trycloudflare.com";

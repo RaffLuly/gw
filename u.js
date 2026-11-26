@@ -1,1 +1,1 @@
-var U="https://axis-oral-scsi-cancelled.trycloudflare.com";
+var U="https://tell-domain-estates-amongst.trycloudflare.com";

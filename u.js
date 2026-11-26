@@ -1,1 +1,1 @@
-var U="https://bridge-vegetables-ran-pen.trycloudflare.com";
+var U="https://wizard-inquiries-divorce-natural.trycloudflare.com";

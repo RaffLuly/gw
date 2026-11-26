@@ -1,1 +1,1 @@
-var U="https://rep-collectables-clan-ate.trycloudflare.com";
+var U="https://word-acdbentity-changed-sleep.trycloudflare.com";

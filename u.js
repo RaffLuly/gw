@@ -1,1 +1,1 @@
-var U="https://toolkit-delivering-cosmetic-overseas.trycloudflare.com";
+var U="https://graphic-editorials-track-vendors.trycloudflare.com";

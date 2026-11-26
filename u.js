@@ -1,1 +1,1 @@
-var U="https://exciting-brunswick-explains-neural.trycloudflare.com";
+var U="https://guaranteed-legends-oven-exchange.trycloudflare.com";

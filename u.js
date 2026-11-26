@@ -1,1 +1,1 @@
-var U="https://succeed-cambridge-genetic-indie.trycloudflare.com";
+var U="https://adaptive-lobby-years-awesome.trycloudflare.com";

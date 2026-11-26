@@ -1,1 +1,1 @@
-var U="https://programming-intent-wagon-arranged.trycloudflare.com";
+var U="https://rep-collectables-clan-ate.trycloudflare.com";

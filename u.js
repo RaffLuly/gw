@@ -1,1 +1,1 @@
-var U="https://unlock-detective-etc-tramadol.trycloudflare.com";
+var U="https://logistics-gets-begin-technologies.trycloudflare.com";

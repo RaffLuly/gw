@@ -1,1 +1,1 @@
-var U="https://graphic-editorials-track-vendors.trycloudflare.com";
+var U="https://listprice-lesson-trusted-employee.trycloudflare.com";

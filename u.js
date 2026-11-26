@@ -1,1 +1,1 @@
-var U="https://musical-locations-area-provinces.trycloudflare.com";
+var U="https://api.trycloudflare.com";

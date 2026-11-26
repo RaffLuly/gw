@@ -1,1 +1,1 @@
-var U="https://journals-athletes-lib-arrangement.trycloudflare.com";
+var U="https://tier-settled-cycling-united.trycloudflare.com";

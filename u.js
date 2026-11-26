@@ -1,1 +1,1 @@
-var U="https://girlfriend-anniversary-dns-shows.trycloudflare.com";
+var U="https://restaurant-revisions-physician-stainless.trycloudflare.com";

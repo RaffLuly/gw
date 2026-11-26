@@ -1,1 +1,1 @@
-var U="https://word-acdbentity-changed-sleep.trycloudflare.com";
+var U="https://coaches-cannon-afternoon-sunny.trycloudflare.com";

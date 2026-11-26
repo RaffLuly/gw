@@ -1,1 +1,1 @@
-var U="https://welfare-blair-down-caring.trycloudflare.com";
+var U="https://you-tenant-online-scholarship.trycloudflare.com";

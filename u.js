@@ -1,1 +1,1 @@
-var U="https://wizard-inquiries-divorce-natural.trycloudflare.com";
+var U="https://composite-accomplish-fruits-chest.trycloudflare.com";

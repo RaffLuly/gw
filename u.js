@@ -1,1 +1,1 @@
-var U="https://api.trycloudflare.com";
+var U="https://resorts-activities-reasoning-clients.trycloudflare.com";

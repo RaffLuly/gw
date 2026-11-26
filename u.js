@@ -1,1 +1,1 @@
-var U="https://ease-configuration-franchise-position.trycloudflare.com";
+var U="https://api.trycloudflare.com";

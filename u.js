@@ -1,1 +1,1 @@
-var U="https://coaches-cannon-afternoon-sunny.trycloudflare.com";
+var U="https://settlement-participant-trans-translated.trycloudflare.com";

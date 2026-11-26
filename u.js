@@ -1,1 +1,1 @@
-var U="https://resorts-activities-reasoning-clients.trycloudflare.com";
+var U="https://invitations-manufacturers-maple-opponents.trycloudflare.com";

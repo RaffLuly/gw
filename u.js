@@ -1,1 +1,1 @@
-var U="https://adaptive-lobby-years-awesome.trycloudflare.com";
+var U="https://west-spending-coating-eternal.trycloudflare.com";

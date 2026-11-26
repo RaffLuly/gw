@@ -1,1 +1,1 @@
-var U="https://speed-paris-disclosure-html.trycloudflare.com";
+var U="https://toolkit-delivering-cosmetic-overseas.trycloudflare.com";

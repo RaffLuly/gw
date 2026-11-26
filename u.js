@@ -1,1 +1,1 @@
-var U="https://frames-persian-rider-independently.trycloudflare.com";
+var U="https://controlled-staff-mid-lucia.trycloudflare.com";

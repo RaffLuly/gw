@@ -1,1 +1,1 @@
-var U="https://assure-clearance-instructions-justice.trycloudflare.com";
+var U="https://api.trycloudflare.com";

@@ -1,1 +1,1 @@
-var U="https://symphony-sunset-slot-fish.trycloudflare.com";
+var U="https://implies-carrier-decided-amended.trycloudflare.com";

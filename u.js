@@ -1,1 +1,1 @@
-var U="https://travel-holes-work-whereas.trycloudflare.com";
+var U="https://hide-universe-example-ears.trycloudflare.com";

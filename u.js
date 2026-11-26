@@ -1,1 +1,1 @@
-var U="https://describes-warning-mill-arm.trycloudflare.com";
+var U="https://ease-configuration-franchise-position.trycloudflare.com";

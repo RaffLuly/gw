@@ -1,1 +1,1 @@
-var U="https://invitations-manufacturers-maple-opponents.trycloudflare.com";
+var U="https://speed-paris-disclosure-html.trycloudflare.com";

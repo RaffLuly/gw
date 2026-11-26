@@ -1,1 +1,1 @@
-var U="https://algebra-dog-edge-falling.trycloudflare.com";
+var U="https://genius-contrary-wichita-magnificent.trycloudflare.com";

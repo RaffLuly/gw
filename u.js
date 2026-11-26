@@ -1,1 +1,1 @@
-var U="https://sri-shortly-venues-native.trycloudflare.com";
+var U="https://axis-oral-scsi-cancelled.trycloudflare.com";

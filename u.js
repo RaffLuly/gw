@@ -1,1 +1,1 @@
-var U="https://composite-accomplish-fruits-chest.trycloudflare.com";
+var U="https://musical-locations-area-provinces.trycloudflare.com";

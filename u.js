@@ -1,1 +1,1 @@
-var U="https://milwaukee-nail-liz-variance.trycloudflare.com";
+var U="https://sri-shortly-venues-native.trycloudflare.com";

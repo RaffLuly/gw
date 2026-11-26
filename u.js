@@ -1,1 +1,1 @@
-var U="https://tell-domain-estates-amongst.trycloudflare.com";
+var U="https://bridge-vegetables-ran-pen.trycloudflare.com";

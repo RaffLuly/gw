@@ -1,1 +1,1 @@
-var U="https://you-tenant-online-scholarship.trycloudflare.com";
+var U="https://travel-holes-work-whereas.trycloudflare.com";

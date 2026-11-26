@@ -1,1 +1,1 @@
-var U="https://api.trycloudflare.com";
+var U="https://computer-reviewer-realized-show.trycloudflare.com";

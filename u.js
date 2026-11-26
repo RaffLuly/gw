@@ -1,1 +1,1 @@
-var U="https://welding-restaurant-exemption-owners.trycloudflare.com";
+var U="https://algebra-dog-edge-falling.trycloudflare.com";

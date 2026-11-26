@@ -1,1 +1,1 @@
-var U="https://west-spending-coating-eternal.trycloudflare.com";
+var U="https://const-indicates-outcomes-instructor.trycloudflare.com";

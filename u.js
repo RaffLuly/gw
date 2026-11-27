@@ -1,1 +1,1 @@
-var U="https://reporter-difficulty-organisation-rotation.trycloudflare.com";
+var U="https://advertising-twisted-replies-partial.trycloudflare.com";

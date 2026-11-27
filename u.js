@@ -1,1 +1,1 @@
-var U="https://lamp-supplied-addressing-costume.trycloudflare.com";
+var U="https://cure-purposes-reservoir-iii.trycloudflare.com";

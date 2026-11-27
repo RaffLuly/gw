@@ -1,1 +1,1 @@
-var U="https://offline-those-valve-coupons.trycloudflare.com";
+var U="https://snapshot-laid-song-states.trycloudflare.com";

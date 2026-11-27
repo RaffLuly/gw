@@ -1,1 +1,1 @@
-var U="https://fastest-challenges-makeup-calibration.trycloudflare.com";
+var U="https://yen-mississippi-thick-telling.trycloudflare.com";

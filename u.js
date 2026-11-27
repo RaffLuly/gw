@@ -1,1 +1,1 @@
-var U="https://earth-west-avenue-jacob.trycloudflare.com";
+var U="https://cardiac-receipt-instructor-assumptions.trycloudflare.com";

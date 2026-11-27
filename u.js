@@ -1,1 +1,1 @@
-var U="https://quarters-onto-metro-competent.trycloudflare.com";
+var U="https://dressed-childhood-foster-safe.trycloudflare.com";

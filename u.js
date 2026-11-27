@@ -1,1 +1,1 @@
-var U="https://yen-interracial-points-volunteer.trycloudflare.com";
+var U="https://current-systems-viii-pcs.trycloudflare.com";

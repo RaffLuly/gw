@@ -1,1 +1,1 @@
-var U="https://battery-sorts-utilities-task.trycloudflare.com";
+var U="https://earth-west-avenue-jacob.trycloudflare.com";

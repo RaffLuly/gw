@@ -1,1 +1,1 @@
-var U="https://tournaments-throw-delicious-staying.trycloudflare.com";
+var U="https://wife-placing-surplus-itself.trycloudflare.com";

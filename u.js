@@ -1,1 +1,1 @@
-var U="https://moved-taxation-amount-kingston.trycloudflare.com";
+var U="https://regression-junior-portion-constructed.trycloudflare.com";

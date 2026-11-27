@@ -1,1 +1,1 @@
-var U="https://exempt-senate-reasonable-crafts.trycloudflare.com";
+var U="https://yen-interracial-points-volunteer.trycloudflare.com";

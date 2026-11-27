@@ -1,1 +1,1 @@
-var U="https://exposed-walking-scratch-sells.trycloudflare.com";
+var U="https://reporter-difficulty-organisation-rotation.trycloudflare.com";

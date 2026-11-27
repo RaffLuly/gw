@@ -1,1 +1,1 @@
-var U="https://pig-pete-labels-tommy.trycloudflare.com";
+var U="https://ranges-displaying-sees-licenses.trycloudflare.com";

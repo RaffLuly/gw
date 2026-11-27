@@ -1,1 +1,1 @@
-var U="https://effort-solely-fall-makers.trycloudflare.com";
+var U="https://fastest-challenges-makeup-calibration.trycloudflare.com";

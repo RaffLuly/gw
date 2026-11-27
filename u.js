@@ -1,1 +1,1 @@
-var U="https://burlington-jersey-citizens-notifications.trycloudflare.com";
+var U="https://remained-sunrise-cornwall-comedy.trycloudflare.com";

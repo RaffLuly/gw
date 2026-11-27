@@ -1,1 +1,1 @@
-var U="https://cardiac-receipt-instructor-assumptions.trycloudflare.com";
+var U="https://strengthening-beautiful-figured-downtown.trycloudflare.com";

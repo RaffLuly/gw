@@ -1,1 +1,1 @@
-var U="https://api.trycloudflare.com";
+var U="https://decision-deer-armed-processor.trycloudflare.com";

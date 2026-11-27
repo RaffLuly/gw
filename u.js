@@ -1,1 +1,1 @@
-var U="https://ticket-ultimately-neighbor-supervision.trycloudflare.com";
+var U="https://cited-mysterious-alliance-pubs.trycloudflare.com";

@@ -1,1 +1,1 @@
-var U="https://daughters-enabled-trembl-sorted.trycloudflare.com";
+var U="https://exempt-senate-reasonable-crafts.trycloudflare.com";

@@ -1,1 +1,1 @@
-var U="https://checkout-david-shadow-divisions.trycloudflare.com";
+var U="https://battery-sorts-utilities-task.trycloudflare.com";

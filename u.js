@@ -1,1 +1,1 @@
-var U="https://rights-approx-prices-benefit.trycloudflare.com";
+var U="https://describes-acer-defeat-thehun.trycloudflare.com";

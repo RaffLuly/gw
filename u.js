@@ -1,1 +1,1 @@
-var U="https://wife-placing-surplus-itself.trycloudflare.com";
+var U="https://api.trycloudflare.com";

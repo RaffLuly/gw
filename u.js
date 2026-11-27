@@ -1,1 +1,1 @@
-var U="https://consoles-prefix-irc-chocolate.trycloudflare.com";
+var U="https://gras-ministry-potato-temporarily.trycloudflare.com";

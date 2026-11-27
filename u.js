@@ -1,1 +1,1 @@
-var U="https://cure-purposes-reservoir-iii.trycloudflare.com";
+var U="https://api.trycloudflare.com";

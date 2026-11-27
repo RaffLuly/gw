@@ -1,1 +1,1 @@
-var U="https://commit-sponsors-prerequisite-hunt.trycloudflare.com";
+var U="https://sponsorship-defined-fuel-apps.trycloudflare.com";

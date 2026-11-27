@@ -1,1 +1,1 @@
-var U="https://gras-ministry-potato-temporarily.trycloudflare.com";
+var U="https://api.trycloudflare.com";

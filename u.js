@@ -1,1 +1,1 @@
-var U="https://api.trycloudflare.com";
+var U="https://baseline-asin-environments-cet.trycloudflare.com";

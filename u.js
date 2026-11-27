@@ -1,1 +1,1 @@
-var U="https://logged-proud-evaluating-pumps.trycloudflare.com";
+var U="https://effort-solely-fall-makers.trycloudflare.com";

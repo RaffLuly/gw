@@ -1,1 +1,1 @@
-var U="https://associated-nil-dude-factory.trycloudflare.com";
+var U="https://standing-wins-cycling-jar.trycloudflare.com";

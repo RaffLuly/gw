@@ -1,1 +1,1 @@
-var U="https://proceeds-strongly-temperature-macintosh.trycloudflare.com";
+var U="https://implemented-eminem-reservoir-xbox.trycloudflare.com";

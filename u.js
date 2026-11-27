@@ -1,1 +1,1 @@
-var U="https://api.trycloudflare.com";
+var U="https://ticket-ultimately-neighbor-supervision.trycloudflare.com";

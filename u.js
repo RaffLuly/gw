@@ -1,1 +1,1 @@
-var U="https://efforts-levy-wallpaper-advances.trycloudflare.com";
+var U="https://moved-taxation-amount-kingston.trycloudflare.com";

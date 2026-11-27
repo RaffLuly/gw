@@ -1,1 +1,1 @@
-var U="https://implemented-eminem-reservoir-xbox.trycloudflare.com";
+var U="https://scripting-serves-armed-along.trycloudflare.com";

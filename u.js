@@ -1,1 +1,1 @@
-var U="https://properly-lloyd-pockets-solaris.trycloudflare.com";
+var U="https://checkout-david-shadow-divisions.trycloudflare.com";

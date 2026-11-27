@@ -1,1 +1,1 @@
-var U="https://dressed-childhood-foster-safe.trycloudflare.com";
+var U="https://associated-nil-dude-factory.trycloudflare.com";

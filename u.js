@@ -1,1 +1,1 @@
-var U="https://investigation-richards-excessive-poor.trycloudflare.com";
+var U="https://offline-those-valve-coupons.trycloudflare.com";

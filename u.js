@@ -1,1 +1,1 @@
-var U="https://scripting-serves-armed-along.trycloudflare.com";
+var U="https://aquatic-carol-actress-examinations.trycloudflare.com";

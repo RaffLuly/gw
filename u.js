@@ -1,1 +1,1 @@
-var U="https://api.trycloudflare.com";
+var U="https://lamp-supplied-addressing-costume.trycloudflare.com";

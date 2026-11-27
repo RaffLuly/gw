@@ -1,1 +1,1 @@
-var U="https://advertising-twisted-replies-partial.trycloudflare.com";
+var U="https://generate-flash-buffer-illinois.trycloudflare.com";

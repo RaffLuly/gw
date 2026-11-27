@@ -1,1 +1,1 @@
-var U="https://standing-wins-cycling-jar.trycloudflare.com";
+var U="https://consoles-prefix-irc-chocolate.trycloudflare.com";

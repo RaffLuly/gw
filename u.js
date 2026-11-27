@@ -1,1 +1,1 @@
-var U="https://relations-methodology-guarantees-queue.trycloudflare.com";
+var U="https://sculpture-methodology-gis-reaching.trycloudflare.com";

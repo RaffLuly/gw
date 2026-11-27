@@ -1,1 +1,1 @@
-var U="https://decision-deer-armed-processor.trycloudflare.com";
+var U="https://expect-similar-buys-benjamin.trycloudflare.com";

@@ -1,1 +1,1 @@
-var U="https://remained-sunrise-cornwall-comedy.trycloudflare.com";
+var U="https://exposed-walking-scratch-sells.trycloudflare.com";

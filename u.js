@@ -1,1 +1,1 @@
-var U="https://aka-mumbai-proceeding-boys.trycloudflare.com";
+var U="https://frank-alexander-hash-toilet.trycloudflare.com";

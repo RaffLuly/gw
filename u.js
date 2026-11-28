@@ -1,1 +1,1 @@
-var U="https://humans-ministers-vpn-removing.trycloudflare.com";
+var U="https://explosion-applying-stereo-pioneer.trycloudflare.com";

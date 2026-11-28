@@ -1,1 +1,1 @@
-var U="https://order-desktop-recipes-cambridge.trycloudflare.com";
+var U="https://colored-kijiji-instructor-side.trycloudflare.com";

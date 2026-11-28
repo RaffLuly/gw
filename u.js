@@ -1,1 +1,1 @@
-var U="https://perspective-eos-kernel-explosion.trycloudflare.com";
+var U="https://puerto-blonde-excerpt-semi.trycloudflare.com";

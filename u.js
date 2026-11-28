@@ -1,1 +1,1 @@
-var U="https://feed-secrets-html-suse.trycloudflare.com";
+var U="https://untitled-bow-liberty-dial.trycloudflare.com";

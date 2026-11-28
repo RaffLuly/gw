@@ -1,1 +1,1 @@
-var U="https://submitted-blink-naturally-jpg.trycloudflare.com";
+var U="https://view-percentage-tone-supposed.trycloudflare.com";

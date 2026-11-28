@@ -1,1 +1,1 @@
-var U="https://explosion-applying-stereo-pioneer.trycloudflare.com";
+var U="https://visited-nationally-tales-living.trycloudflare.com";

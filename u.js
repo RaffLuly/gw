@@ -1,1 +1,1 @@
-var U="https://api.trycloudflare.com";
+var U="https://sustained-ray-designer-recall.trycloudflare.com";

@@ -1,1 +1,1 @@
-var U="https://metropolitan-barriers-seating-wan.trycloudflare.com";
+var U="https://join-temple-built-girlfriend.trycloudflare.com";

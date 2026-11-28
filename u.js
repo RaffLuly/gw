@@ -1,1 +1,1 @@
-var U="https://puerto-blonde-excerpt-semi.trycloudflare.com";
+var U="https://api.trycloudflare.com";

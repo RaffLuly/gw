@@ -1,1 +1,1 @@
-var U="https://beginner-nearby-elephant-imaging.trycloudflare.com";
+var U="https://italiano-magazine-above-issue.trycloudflare.com";

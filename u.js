@@ -1,1 +1,1 @@
-var U="https://visited-nationally-tales-living.trycloudflare.com";
+var U="https://submitted-blink-naturally-jpg.trycloudflare.com";

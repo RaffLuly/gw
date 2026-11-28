@@ -1,1 +1,1 @@
-var U="https://concrete-ceo-distribute-subtle.trycloudflare.com";
+var U="https://order-desktop-recipes-cambridge.trycloudflare.com";

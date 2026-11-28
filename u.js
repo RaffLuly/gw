@@ -1,1 +1,1 @@
-var U="https://nsw-yesterday-soundtrack-became.trycloudflare.com";
+var U="https://paxil-lucky-warning-assign.trycloudflare.com";

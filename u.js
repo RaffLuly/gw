@@ -1,1 +1,1 @@
-var U="https://paxil-lucky-warning-assign.trycloudflare.com";
+var U="https://api.trycloudflare.com";

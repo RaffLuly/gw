@@ -1,1 +1,1 @@
-var U="https://checklist-discipline-acoustic-moms.trycloudflare.com";
+var U="https://newman-apt-paradise-ivory.trycloudflare.com";

@@ -1,1 +1,1 @@
-var U="https://view-percentage-tone-supposed.trycloudflare.com";
+var U="https://api.trycloudflare.com";

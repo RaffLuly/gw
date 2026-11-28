@@ -1,1 +1,1 @@
-var U="https://italiano-magazine-above-issue.trycloudflare.com";
+var U="https://instant-mass-insider-editorial.trycloudflare.com";

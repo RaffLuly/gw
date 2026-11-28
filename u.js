@@ -1,1 +1,1 @@
-var U="https://elimination-pub-campaigns-strongly.trycloudflare.com";
+var U="https://mounts-understand-numbers-city.trycloudflare.com";

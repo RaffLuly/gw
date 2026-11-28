@@ -1,1 +1,1 @@
-var U="https://johns-liquid-supplement-universities.trycloudflare.com";
+var U="https://undefined-tip-immigrants-actual.trycloudflare.com";

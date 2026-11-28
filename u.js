@@ -1,1 +1,1 @@
-var U="https://contribution-projects-manually-surprise.trycloudflare.com";
+var U="https://changes-transportation-forty-tiger.trycloudflare.com";

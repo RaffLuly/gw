@@ -1,1 +1,1 @@
-var U="https://police-cheese-hospital-trivia.trycloudflare.com";
+var U="https://perspective-eos-kernel-explosion.trycloudflare.com";

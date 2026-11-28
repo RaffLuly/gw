@@ -1,1 +1,1 @@
-var U="https://unexpected-reproductive-tip-border.trycloudflare.com";
+var U="https://antivirus-soccer-note-necessity.trycloudflare.com";

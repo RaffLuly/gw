@@ -1,1 +1,1 @@
-var U="https://genome-alleged-diffs-pursuit.trycloudflare.com";
+var U="https://elimination-pub-campaigns-strongly.trycloudflare.com";

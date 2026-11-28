@@ -1,1 +1,1 @@
-var U="https://instant-mass-insider-editorial.trycloudflare.com";
+var U="https://guards-vegetation-xhtml-fed.trycloudflare.com";

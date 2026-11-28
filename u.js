@@ -1,1 +1,1 @@
-var U="https://hope-assessment-academics-creatures.trycloudflare.com";
+var U="https://api.trycloudflare.com";

@@ -1,1 +1,1 @@
-var U="https://antivirus-soccer-note-necessity.trycloudflare.com";
+var U="https://police-cheese-hospital-trivia.trycloudflare.com";
